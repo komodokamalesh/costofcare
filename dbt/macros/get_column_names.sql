@@ -2,8 +2,9 @@
 
 
 {% set col_names_query %}
-select array_agg(column_name) as agg_col from information_schema.columns where 
+select column_name as agg_col from information_schema.columns where 
 	table_name='{{table_name}}'
+	order by column_name
 {% endset %}
 
 {% set results = run_query(col_names_query) %}
@@ -13,6 +14,6 @@ select array_agg(column_name) as agg_col from information_schema.columns where
 {% set result_list= [] %}
 {% endif %}
 
-{{ return(results_list) }}
+{{ return(result_list) }}
 
 {% endmacro %}

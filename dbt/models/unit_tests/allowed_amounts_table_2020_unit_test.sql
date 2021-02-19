@@ -9,8 +9,14 @@
 with count_unit_test as (select
 'aa_count' as test_name
 ,(select count(*) as count from {{ref('allowed_amounts_table_2020')}}) as value
-,10000000 as expected_value
+{% if var('limit_level')>0 %}
+{% set expected_count=10**(var('limit_level')*2) %}
+, {{expected_count}} as expected_value
 , (value=expected_value) as test_passed
+{% else %}
+, NULL as expected_value
+, TRUE as test_passed
+{% endif %}
 , FALSE as fatal_error
 , (test_passed and fatal_error) as fatal_result),
 
