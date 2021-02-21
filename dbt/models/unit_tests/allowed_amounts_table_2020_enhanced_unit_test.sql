@@ -6,7 +6,11 @@
 }}
 
 
--- unit tests for allowed_amount_table_2020 enhances
+-- unit tests for allowed_amount_table_2020 enhanced
+--unit tests models have five columns: name of unit test (test_name), result of the test (value), 
+--expected value of test (expected_value), whether or not the test passed (test_passed),
+--whether or not the error is considered fatal (fatal_error), whether or not the test failed AND
+--the error was fatal (fatal_result)
 
 {%- set table_column_names = get_column_names('ALLOWED_AMOUNTS_TABLE_2020_ENHANCED') -%}
 

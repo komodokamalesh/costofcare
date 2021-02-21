@@ -4,6 +4,11 @@
   	)
 }}
 
+-- unit tests for allowed_amount_table_2020
+--unit tests models have five columns: name of unit test (test_name), result of the test (value), 
+--expected value of test (expected_value), whether or not the test passed (test_passed),
+--whether or not the error is considered fatal (fatal_error), whether or not the test failed AND
+--the error was fatal (fatal_result)
 
 --count check
 with count_unit_test as (select
@@ -40,6 +45,8 @@ aa_above10M_unit_test as (select
 , (test_passed and fatal_error) as fatal_result),
 
 
+
+--checks unique source array per encounter key 
 unique_source_ekey_unit_test as (select
 'unique_source_ekey_count' as test_name
 ,(select count(distinct encounter_key, sources_array) as count from {{ref('allowed_amounts_table_2020')}}) as value

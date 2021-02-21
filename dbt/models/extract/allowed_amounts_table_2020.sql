@@ -16,7 +16,7 @@ encounter_key
 ,procedure
 from {{source('encounters', 'aa')}}
 where service_from::date between '2020-01-01' and '2020-12-31'
---throttle query based on limit_level
+--throttle query based on limit_level, see README for details.
 {% if var('limit_level') > 0 %}
 {% set temp_limit = 10**(var('limit_level')*2) %}
 limit {{temp_limit}}

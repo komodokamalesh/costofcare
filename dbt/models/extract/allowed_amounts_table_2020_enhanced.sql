@@ -6,8 +6,8 @@
 }}
 
 
---add claim date, procedure, payer and hcp/hcp info to allowed amounts pull
---note: check on need for group bys?
+--add claim date, procedure, payer, setting of care and hcp/hcp info to allowed amounts pull
+--note: need to review QA
 
 select
 e.claim_date
