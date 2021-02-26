@@ -13,3 +13,6 @@ The project is an analysis of cost of care for medical encounters. The idea is t
 Currently, the repo has one part: a [dbt pipeline](https://github.com/komodokamalesh/costofcare/tree/main/dbt) to pull allowed amounts data from Snowflake. Additional pipelines could be built to supplement the data. 
 
 The next step is to build out analysis and models in Jupyter. 
+
+
+### Notes
