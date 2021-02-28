@@ -11,8 +11,9 @@ config-version: 2
 profile: 'cost_of_care'
 
 vars:
-  #limit levels to throttle queries
-  limit_level: 3.5
+  limit_level: 1
+  analysis_start_date: TO_DATE('2020-01-01','yyyy-mm-dd')
+  analysis_end_date: TO_DATE('2020-12-31','yyyy-mm-dd')
 
 # These configurations specify where dbt should look for different types of files.
 # The `source-paths` config, for example, states that models in this project can be
@@ -41,6 +42,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 models:
+  enabled: True
+  materialized: table
+  transient: True
   cost_of_care:
-      example:
-          materialized: table
