@@ -5,6 +5,8 @@
   	)
 }}
 
+--add allowed amounts to encounters w/sline and soc/procedure data
+
 select
 ee.*,  
 aa.allowed_amount::float as allowed_amount

@@ -6,7 +6,7 @@
 }}
 
 
---add claim date, procedure, payer, setting of care and hcp/hcp info to allowed amounts pull
+--pull sample? of mx claims with service line information
 --note: need to review QA
 
 select
@@ -53,17 +53,10 @@ e.claim_date
 ,array_contains('fleming-salk'::variant, sources_array) as source_fsalk
 ,array_contains('fleming-peso'::variant, sources_array) as source_fpeso
 ,array_contains('fleming-nightingale'::variant, sources_array) as source_fnight
-from (select * from (select claim_date, service_lines,encounter_key, visit_id,sources,patient_state,hcp_1_npi
-	,hco_1_npi,total_claim_charge_amount,payer_kh_id,payer_kh_id_impute_flag
-	,bill_type_code,payer_channel,statement_from,statement_to,discharge_status_code
-	,claim_type_code,admit_type_code from {{source('encounters', 'mx')}} 
-	where claim_date between {{var('analysis_start_date')}} and {{var('analysis_end_date')}})
-	{% if var('limit_level') > 0 %}
-	{% set sample_size = 10**(var('limit_level')*2) %}
-	sample ({{sample_size}} rows)
-	{% endif %}
-	) e,
+from {{source('encounters', 'mx')}} as e,
 lateral flatten(input=>e.service_lines) as s
+where claim_date between {{var('analysis_start_date')}} and {{var('analysis_end_date')}}
+
 
 
 
