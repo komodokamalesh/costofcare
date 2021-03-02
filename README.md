@@ -1,6 +1,6 @@
 # Cost of Care
 
-This repo is dedicated to analyzing and modeling medical billing costs in Komodo Health data. It is maintained by Kamalesh Rao and is open for viewing to anyone in the company
+This repo is dedicated to analyzing and modeling medical billing costs in Komodo Health data. It is maintained by Kamalesh Rao and is open for viewing to anyone in the company.
 
 ## General Overview
 
@@ -10,9 +10,17 @@ The project is an analysis of cost of care for medical encounters. The idea is t
 
 ### Repo Organization
 
-Currently, the repo has one part: a [dbt pipeline](https://github.com/komodokamalesh/costofcare/tree/main/dbt) to pull allowed amounts data from Snowflake. Additional pipelines could be built to supplement the data. 
+Currently, the repo has two parts: 
 
-The next step is to build out analysis and models in Jupyter. 
+1) a [dbt pipeline](https://github.com/komodokamalesh/costofcare/tree/main/dbt) to pull allowed amounts data from Snowflake. Additional pipelines could be built to supplement the data. 
 
+1) [analysis notebooks](https://github.com/komodokamalesh/costofcare/tree/main/analysis) that are the main tool for data exploration and modeling. 
 
 ### Notes
+
+#### TO DO
+
+-Rename model for readability
+-Redo comments on deprecated file
+-fix sampling?
+-rewrite readme	
