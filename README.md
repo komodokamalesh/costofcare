@@ -24,3 +24,4 @@ Currently, the repo has two parts:
 -Redo comments on deprecated file
 -fix sampling?
 -rewrite readme	
+-new QA (counts, etc)
