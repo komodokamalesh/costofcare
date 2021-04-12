@@ -1,7 +1,7 @@
 {{
   config(
     materialized='table', 
-    transient=false
+    transient=true
   	)
 }}
 
@@ -11,6 +11,7 @@
 
 select
 e.claim_date
+,e.upk_key2
 ,e.encounter_key
 ,e.visit_id
 ,e.sources as sources_array
