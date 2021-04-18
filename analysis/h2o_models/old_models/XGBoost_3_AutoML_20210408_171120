@@ -1,0 +1,778 @@
+Ì	3.32.1.1ˇ; BAD[Bwater.Icedwater.H2O$H2OCountedCompleterwater.HeartBeatwater.H2ONodewater.FetchClazzwater.FetchIdwater.DTaskwater.fvec.Chunkwater.fvec.C1NChunkwater.fvec.Framewater.fvec.Vec$VectorGroupwater.fvec.Vec$ESPCwater.api.Schema#water.api.schemas3.RequestSchemaV3!water.api.schemas3.SchemaV3$Metawater.api.schemas3.SchemaV3water.api.schemas3.CloudV3"water.api.schemas3.CloudV3$NodeV3water.api.schemas3.AboutV3 water.api.schemas3.AboutEntryV3water.UDPRebooted$ShutdownTskwater.api.schemas3.H2OErrorV3water.api.schemas3.RouteV3#water.api.schemas3.ModelBuildersV3water.util.IcedSortedHashMapChex.schemas.ModelBuilderSchema$IcedHashMapStringModelBuilderSchema+water.api.schemas3.NodePersistentStorageV3Hwater.api.schemas3.NodePersistentStorageV3$NodePersistentStorageEntryV3water.util.IcedLongwater.util.IcedAtomicIntwater.util.IcedDoublewater.util.IcedBitSetwater.util.IcedHashSetwater.util.IcedHashMapwater.util.IcedHashMapBasewater.util.IcedHashMapGeneric6water.util.IcedHashMapGeneric$IcedHashMapStringString6water.util.IcedHashMapGeneric$IcedHashMapStringObjectwater.api.schemas3.TypeaheadV3water.api.schemas4.SessionIdV4"water.api.schemas4.OutputSchemaV4water.rapids.Session$1water.MRTaskwater.parser.ParseTime$1"water.api.schemas3.RapidsStringV3"water.api.schemas3.RapidsSchemaV3"water.api.schemas3.CapabilitiesV3%water.api.schemas3.CapabilityEntryV3water.Lockablewater.Keyed
+water.Keywater.fvec.UploadFileVecwater.fvec.FileVecwater.fvec.ByteVecwater.fvec.Vec&water.parser.ParseSetup$GuessSetupTsk water.api.schemas3.ParseSetupV3$water.api.schemas3.KeyV3$FrameKeyV3water.api.schemas3.KeyV3water.Job$AssertNoKey
+water.Jobwater.Job$JobListwater.api.schemas3.ParseV3-water.parser.ParseDataset$MultiFileParseTaskwater.api.schemas3.JobV3"water.api.schemas3.KeyV3$JobKeyV3water.api.schemas3.JobsV3>water.parser.ParseDataset$MultiFileParseTask$DistributedParsewater.fvec.C8DChunkwater.fvec.C2Chunkwater.fvec.C1Chunkwater.fvec.RollupStatswater.fvec.Vec$14water.fvec.Vec$157water.parser.ParseDataset$GatherCategoricalDomainsTask<water.parser.ParseDataset$CreateParse2GlobalCategoricalMaps/water.parser.ParseDataset$CategoricalUpdateMap6water.parser.ParseDataset$UpdateCategoricalChunksTaskwater.fvec.CBSChunkwater.fvec.CXIChunk*water.fvec.RollupStats$ComputeRollupsTaskwater.fvec.RollupStats$Rollwater.util.ChunkSummarywater.api.schemas3.FramesV3water.api.schemas3.FrameV3water.api.schemas3.FrameBaseV3!water.api.schemas3.FrameV3$ColV3!water.api.schemas3.TwoDimTableV31water.api.schemas3.TwoDimTableV3$ColumnSpecsBasewater.api.schemas3.MetadataV3$water.api.schemas3.SchemaMetadataV3#water.api.schemas3.FieldMetadataV3)water.automl.api.schemas3.LeaderboardV99&water.automl.api.schemas3.EventLogV99ai.h2o.automl.events.EventLog&ai.h2o.automl.leaderboard.Leaderboardai.h2o.automl.AutoMLai.h2o.automl.AutoMLBuildSpechex.tree.xgboost.XGBoostModelhex.ObjectConsistencyChecker1ai.h2o.automl.AutoMLBuildSpec$AutoMLBuildControl5ai.h2o.automl.AutoMLBuildSpec$AutoMLStoppingCriteriaDhex.grid.HyperSpaceSearchCriteria$RandomDiscreteValueSearchCriteria"hex.grid.HyperSpaceSearchCriteriawater.fvec.C0LChunk3hex.grid.HyperSpaceSearchCriteria$StoppingCriteriawater.fvec.Vec$3*ai.h2o.automl.AutoMLBuildSpec$AutoMLInput*water.rapids.ast.prims.advmath.AstKFold$20ai.h2o.automl.AutoMLBuildSpec$AutoMLBuildModelsai.h2o.automl.StepDefinition"ai.h2o.automl.StepDefinition$Step5ai.h2o.automl.AutoMLBuildSpec$AutoMLCustomParameterswater.util.Countdownai.h2o.automl.WorkAllocations#ai.h2o.automl.WorkAllocations$Work$ai.h2o.automl.ModelingStepsRegistry$ai.h2o.automl.ModelingStepsExecutorai.h2o.automl.AutoML$18ai.h2o.automl.leaderboard.LeaderboardExtensionsProvider#ai.h2o.automl.events.EventLogEntry-water.automl.api.schemas3.AutoMLBuildSpecV99Cwater.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLBuildControlV99Gwater.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLStoppingCriteriaV99hex.ModelBuilder$2<water.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLInputV99*water.api.schemas3.FrameV3$ColSpecifierV3Bwater.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLBuildModelsV99,water.automl.api.schemas3.StepDefinitionV994water.automl.api.schemas3.StepDefinitionV99$StepV990water.automl.api.schemas3.AutoMLV99$AutoMLKeyV3$water.automl.api.schemas3.AutoMLV99+water.automl.api.schemas3.EventLogEntryV990hex.tree.xgboost.XGBoostModel$XGBoostParametershex.Model$Parameterswater.fvec.CStrChunk'hex.tree.xgboost.XGBoostExtensionCheck8water.util.ReproducibilityInformationUtils$NodeInfoTaskhex.glm.GLMTask$YMUTask!water.api.schemas3.RapidsFrameV3hex.DataInfo
+hex.Modelhex.tree.xgboost.XGBoostOutputhex.Model$Outputwater.util.TwoDimTablewater.IcedWrapperhex.ScoreKeeperhex.GaussianDistributionhex.Distributionhex.IdentityFunctionhex.LinkFunction"hex.tree.xgboost.XGBoostModelInfo"water.api.schemas3.RapidsNumberV3,water.rapids.ast.prims.operators.AstBinOp$3water.fvec.Frame$DeepSelect'hex.tree.xgboost.task.XGBoostSetupTask*hex.tree.xgboost.task.AbstractXGBoostTask(hex.tree.xgboost.task.XGBoostUpdateTask'hex.tree.xgboost.task.XGBoostScoreTaskwater.fvec.C0DChunkhex.ModelMetricsRegressionhex.ModelMetricsSupervisedhex.ModelMetricswater.fvec.CUDChunkhex.tree.xgboost.XgbVarImphex.VarImp)hex.tree.xgboost.task.XGBoostCleanupTaskhex.Model$BigScorehex.CMetricScoringTaskwater.udf.CFuncTask!water.fvec.CategoricalWrappedVecwater.fvec.WrappedVec+hex.ModelBuilder$HoldoutPredictionCombiner'ai.h2o.automl.leaderboard.TrainingTime,ai.h2o.automl.leaderboard.ScoringTimePerRow#ai.h2o.automl.leaderboard.AlgoName$water.api.schemas3.KeyV3$ModelKeyV3hex.glm.GLMModelhex.glm.GLMModel$GLMParameterswater.fvec.RollupStats$Histo(hex.glm.GLMTask$GLMGaussianGradientTask hex.glm.GLMTask$GLMGradientTaskhex.glm.GLMModel$GLMOutputhex.glm.GLMTask$GLMResDevTaskhex.FrameTask2!hex.glm.GLMTask$GLMIterationTask'hex.glm.GLMTask$GLMIncrementalGramTaskhex.glm.GLMScorehex.ModelMetricsRegressionGLMhex.glm.GLMModel$Submodelhex.glm.GLMScoringInfohex.ScoringInfohex.tree.drf.DRFModel$hex.tree.drf.DRFModel$DRFParameters.hex.tree.SharedTreeModel$SharedTreeParameters*hex.tree.SharedTreeModelWithContributionshex.tree.SharedTreeModel hex.tree.drf.DRFModel$DRFOutput*hex.tree.SharedTreeModel$SharedTreeOutputhex.tree.TreeStatswater.fvec.Vec$8water.fvec.Vec$6water.fvec.C8DVolatileChunkwater.fvec.Vec$7water.fvec.C4VolatileChunk!hex.tree.SharedTree$InitialValuehex.tree.drf.DRF$DRFDriver$1hex.tree.Scorehex.tree.Samplehex.tree.ScoreBuildHistogram2hex.tree.ScoreBuildHistogram(hex.tree.drf.DRF$DRFDriver$CollectPredshex.tree.CompressedTree%hex.tree.SharedTree$ComputeModelSizehex.tree.gbm.GBMModel$hex.tree.gbm.GBMModel$GBMParameters hex.tree.gbm.GBMModel$GBMOutput%hex.tree.gbm.GBM$FillVecWithConstant+hex.tree.gbm.GBM$GBMDriver$MarkDecidedRows#hex.tree.gbm.GBM$ComputePredAndReshex.tree.gbm.GBM$GammaPass&hex.tree.gbm.GBM$AddTreeContributions#hex.deeplearning.DeepLearningModel:hex.deeplearning.DeepLearningModel$DeepLearningParameters*water.fvec.RebalanceDataSet$RebalanceTask;hex.deeplearning.DeepLearningModel$DeepLearningModelOutput)hex.deeplearning.DeepLearningScoringInfo'hex.deeplearning.DeepLearningModelInfo(hex.deeplearning.Storage$DenseRowMatrix%hex.deeplearning.Storage$DenseVectorwater.util.MRUtils$1&water.init.NetworkTest$CollectiveTask"hex.deeplearning.DeepLearningTaskhex.FrameTaskhex.grid.Gridhex.grid.HyperParameters$water.KeySnapshot$GlobalUKeySetTask"hex.ensemble.StackedEnsembleModel<hex.ensemble.StackedEnsembleModel$StackedEnsembleParameters8hex.ensemble.StackedEnsembleModel$StackedEnsembleOutputwater.fvec.Frame$3*water.rapids.ast.prims.advmath.AstKFold$1water.fvec.Vec$4water.api.schemas3.ModelsV3$hex.schemas.StackedEnsembleModelV99!water.api.schemas3.ModelSchemaV3%water.api.schemas3.ModelSchemaBaseV3*water.api.schemas3.ModelParameterSchemaV3Bhex.schemas.StackedEnsembleModelV99$StackedEnsembleModelOutputV99'water.api.schemas3.ModelOutputSchemaV3/water.api.schemas3.ModelMetricsRegressionGLMV3,water.api.schemas3.ModelMetricsRegressionV3&water.api.schemas3.ModelMetricsBaseV3-water.rapids.ast.prims.mungers.AstRowSlice$1#water.api.schemas3.RapidsNumbersV3hex.schemas.XGBoostModelV30hex.schemas.XGBoostModelV3$XGBoostModelOutputV3hex.schemas.DRFModelV3hex.schemas.SharedTreeModelV3(hex.schemas.DRFModelV3$DRFModelOutputV36hex.schemas.SharedTreeModelV3$SharedTreeModelOutputV3hex.schemas.GBMModelV3(hex.schemas.GBMModelV3$GBMModelOutputV3hex.schemas.GLMModelV3(hex.schemas.GLMModelV3$GLMModelOutputV3 hex.schemas.DeepLearningModelV3:hex.schemas.DeepLearningModelV3$DeepLearningModelOutputV3!water.api.schemas3.ModelExportV3e5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷sà5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex57Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex             
+         ¯?      ‡?ÕÃÃÃÃÃÏ?    ˇˇˇˇ             NÜR“dRT?LOG_ALLOWED_AMOUNT   †@         ˇˇˇˇ                @      @333333”?333333”?      ?öôôôôôÈ?öôôôôôÈ?öôôôôôÈ?öôôôôôÈ?      ?öôôôôôÈ?öôôôôôÈ?             †  †          ˇˇˇˇ             Ä?                  à5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex57Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex              
+          ¯?      ‡?ÕÃÃÃÃÃÏ?    ˇˇˇˇ wæüOà@   NÜR“dRT?LOG_ALLOWED_AMOUNT   †@         ˇˇˇˇ '               @      ?333333”?333333”?      ?öôôôôôÈ?      ?öôôôôôÈ?      ?      ?öôôôôôÈ?      ?             †  †          ˇˇˇˇ               Ä?                   ëPAYER_KH_IDMODIFIER_1MODIFIER_2PATIENT_STATEPLACE_OF_SERVICEPAYER_CHANNELSOCCLAIM_TYPE_CODEUNITSLOG_ALLOWED_AMOUNTEnumEnumEnumEnumEnumEnumEnumEnumNumericNumeric 	ˇ711010010110210310410610710810911110111112113115117118119121201211221231241251261271291313013113213413513613713813914140141143144145147148149151501511521531541551571581591616016116216316416516616816917170172174175176177179181801811821831841851861871881891919019119219319519619719819922020020120220420620720820921210212213214215216217218219222202212222242252262282292323123323423523623823924240241242243244245246247248249252502512522532552572592626026126226426526626726826927271272273274275276277278279282812842852872882892929029129229329429529629729829930030130230430530630730830931310311312313314315316317318323203213223233243253263273283333133233333533633833934340341342343345346347348349353513523533543563573583593738440424344454647484955051525354555657585966061626364656667686977071727375767778798808182838485878899091929394959697s"1P""22""23""24""25""26""27""32""33""35""50""51""52""53""55""56""57""58""59""76""79""95""99""AF""AG""AL""AM""AP""AQ""AT""BU""CC""CG""CR""CS""EP""ET""FA""FP""GA""GB""GC""GE""GF""GN""GP""GQ""GR""GT""GV""GW""GY""GZ""H9""HA""HB""HD""HE""HF""HG""HI""HL""HN""HO""HP""HR""HW""KX""LT""NP""P2""PA""PD""PN""PO""Q1""Q2""Q5""Q6""Q8""QW""RT""SA""SB""SC""T6""TA""TC""TD""TG""TH""TJ""TS""U1""U2""U3""U4""U5""U6""U7""U8""U9""UA""UB""UC""UD""UF""UG""WI""X1""X2""X4""XE"L"22""24""25""27""33""51""52""57""59""76""79""95""AF""AG""AM""AQ""AT""CC""CG""CR""EP""FP""GA""GC""GE""GF""GR""GT""GV""GW""GY""H9""HA""HB""HD""HE""HF""HN""HP""HW""KX""LT""NP""PA""PD""PO""Q1""Q5""Q6""Q8""Q9""QW""RT""SA""SB""SE""TF""TH""TJ""TU""U1""U2""U3""U4""U6""U7""U9""UA""UB""UC""UD""WI""X1""X2"6AKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPAPRRISCSDTNTXUTVAVTWAWIWVWY"01""02""03""07""11""12""14""15""17""19""20""21""22""23""24""26""32""49""50""52""53""57""65""71""72""81""99"
+CommercialManaged Medicaid	Medicaid	MedicareMedicare AdvantageTRICAREVeterans AffairsWorkers Comp
+Ambulance VisitEmergency Room VisitHome VisitInpatient VisitLaboratory VisitNon-hospital institution VisitOutpatient VisitPharmacy VisitIP   51prediction_XGBoost_3_AutoML_20210408_171120_cv_151prediction_XGBoost_3_AutoML_20210408_171120_cv_251prediction_XGBoost_3_AutoML_20210408_171120_cv_351prediction_XGBoost_3_AutoML_20210408_171120_cv_451prediction_XGBoost_3_AutoML_20210408_171120_cv_557cv_holdout_prediction_XGBoost_3_AutoML_20210408_171120 ∆ˇw≤x  \x≤x  ñ      %$      5°modelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_automl_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@-68649429429599425925êmodelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex@8995505608354399445?5-  2‘ˇˇˇˇ_b770f612da565e30d92dff01f514ef0        5!XGBoost_3_AutoML_20210408_171120d   XGBoost def_3  H„w≤x  nx≤x    `Í      À      `Í      Done.£5°modelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_automl_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@-6864942942959942592         5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷s5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@DåÒ√“∫†x≤x   gNÿ@^¡?Î	      –¸ÄﬁÂ€?gNÿ@^¡?éó¬=Ã?      ¯ˇ£5êmodelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex@8995505608354399445         5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷s57Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex’Ñˇ»∞t÷|Vx≤x   ,M®R¡?0W      F8j/Ò‡€?,M®R¡?=sSJj6Ã?      ¯ˇ£5°modelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_automl_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@-6864942942959942592        ]5-fold cross-validation on training data (Metrics computed for combined holdout predictions)5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷s5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@DåÒ√“∫†fx≤x   –vﬁù‘U¡?Î	      GÙ˚ÄﬁÂ€?–vﬁù‘U¡?ºêH˛afÃ?      ¯ˇì!Cross-Validation Metrics Summarymaemean_residual_deviancemser2residual_deviancermsermslemeansdcv_1_validcv_2_validcv_3_validcv_4_validcv_5_validstringstringstringstringstringstringstring%s%s%s%s%s%s%sî S                         0.22187448           î S                         0.0033271017           î S                         0.22413786           î S                         0.22592244           î S                         0.22109133           î S                         0.22096455           î S                         0.21725622           î S                         0.13543184           î S                         0.002126679           î S                         	0.135191           î S                         
+0.1355172           î S                         0.13406014           î S                         0.13893205           î S                         0.13345884           î S                         0.13543184           î S                         0.002126679           î S                         	0.135191           î S                         
+0.1355172           î S                         0.13406014           î S                         0.13893205           î S                         0.13345884           î S                         
+0.2871099           î S                         0.012503547           î S                         
+0.2796333           î S                         0.27303043           î S                         0.28658667           î S                         0.29017463           î S                         0.30612457           î S                         0.13543184           î S                         0.002126679           î S                         	0.135191           î S                         
+0.1355172           î S                         0.13406014           î S                         0.13893205           î S                         0.13345884           î S                         0.36800164           î S                         0.0028800059           î S                         0.36768326           î S                         
+0.3681266           î S                         0.36614224           î S                         
+0.3727359           î S                         0.36532018           î S                         NaN           î S                         0.0           î S                         NaN           î S                         NaN           î S                         NaN           î S                         NaN           î S                         NaN           ìModel SummaryNumber of Treeslong%dî I                                    ìNode Informationnodeh2ohealthy
+last_ping	num_cpus	sys_loadmem_value_size	free_mem	pojo_mem	swap_mem
+free_disc	max_discpid	num_keystcps_active	open_fdsrpcs_active	nthreads
+is_leader
+total_memmax_memjava_versionjvm_launch_parametersos_versionmachine_physical_memmachine_localeintstringstringstringintdoublelonglonglonglonglonglongintintstringintstringintstringlonglongstringstringstringlongstring%d%s%s%s%d%.5f%d%d%d%d%d%d%d%d%s%d%s%d%s%d%d%s%s%s%d%sî I                                     î S                         127.0.0.1:54321           î S                         true           î S                         1617901911907           î I                                    î F            ∏uA                     î L    Hba                             î L    M±x                            î L    ôPÌ                             î L                                     î L      ÄŒÇ                           î L      ‡g€                           î IP                                   î Iˆ                                   î S                                     î I2                                    î S                                     î I                                    î S                         true           î L      h                            î L       Ä                            î S                         $Java 1.8.0_282 (from Private Build)           î S                         [-ea]           î S                         ,Linux 4.14.186-146.268.amzn2.x86_64 (amd64)           î L       @                            î S                         en_US           ìCluster ConfigurationH2O cluster uptimeH2O cluster timezoneH2O data parsing timezoneH2O cluster versionH2O cluster version ageH2O cluster nameH2O cluster total nodesH2O cluster free memoryH2O cluster total coresH2O cluster allowed coresH2O cluster statusH2O internal securityH2O API Extensionslongstringstringstringstringstringintlongintintstringstringstring%d%s%s%s%s%s%d%d%d%d%s%s%sî L    –bø                              î S                         Etc/UTC           î S                         UTC           î S                         	3.32.1.1           î S                         13 days           î S                         H2O_from_python_jovyan_ztth07           î I                                    î L    M±x                            î I                                    î I                                    î S                         locked, healthly           î S                         false           î S                         CAmazon S3, XGBoost, Algos, AutoML, Core V3, TargetEncoder, Core V4           ìInput Frames InformationInput Frame	ChecksumESPCstringlongstring%s%d%dî S                         training_frame           î L    @Êõórß`õ                         î S                         r[0, 48188, 96360, 144554, 192746, 240928, 289116, 337315, 385513, 433718, 481908, 530106, 578295, 626486, 650000]           î S                         validation_frame           î L    ÔÃ˜LÉ:                         î S                         B[0, 48182, 96381, 144570, 192786, 240964, 289154, 337336, 350000]           î S                         calibration_frame           î L    ˇˇˇˇˇˇˇˇ                         î S                         -1           ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:52           î S                          7.294 sec           î I                                     î D                ˝‡“P°ƒ@             î D                Ùb[ô@             î D                4≥÷≤fï-@             î D                ¶∂S¬@             î D                8¬Ë[Ió@             î D                bµü÷˜ê-@             
+î S                         2021-04-08 17:11:52           î S                          8.117 sec           î I                                    î D                l+¨¶˝Á?             î D                e5wetXÂ?             î D                #öC.z¸·?             î D                Ë°(ÿıÁ?             î D                yêqOÂ?             î D                ÄÑ1u«·?             
+î S                         2021-04-08 17:11:53           î S                          8.604 sec           î I
+                                    î D                59µ∫ˆ¯ÿ?             î D                `_
+V°œ?             î D                ™)Ã}√?             î D                ≥!_˚Óÿ?             î D                »¿=º>èœ?             î D                L?ê—qm√?             
+î S                         2021-04-08 17:11:53           î S                          9.091 sec           î I                                    î D                a ü{	ì◊?             î D                éó¬=Ã?             î D                gNÿ@^¡?             î D                n¢füTã◊?             î D                =sSJj6Ã?             î D                ,M®R¡?             ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:44           î S                          0.082 sec           î I                                     î D                úmæﬂ∫ƒ@             î D                ›ã∫¡hô@             î D                f9˝ÿóï-@             î D                P]P;ƒ@             î D                ®H⁄Á%ô@             î D                cö<¢î-@             
+î S                         2021-04-08 17:11:45           î S                          1.133 sec           î I                                    î D                @¡LèÓ˛Á?             î D                X&‰ÔYÂ?             î D                _Æ‡e˛·?             î D                ,ÖªPÂıÁ?             î D                £é5(åWÂ?             î D                ›)€·?             
+î S                         2021-04-08 17:11:46           î S                          1.657 sec           î I
+                                    î D                %¡Õ'&’ÿ?             î D                åxˆÛ≤œ?             î D                ç‘ˇDE√?             î D                W/kc0Æÿ?             î D                ÿ∆í“ìœ?             î D                 £√¸√?             
+î S                         2021-04-08 17:11:46           î S                          2.134 sec           î I                                    î D                ˇ\°bIØ◊?             î D                jœMÖÎ»Ã?             î D                »©πá¡?             î D                ßòˇnà◊?             î D                Ò!¢å∞Ã?             î D                í»›:M¡?             ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:44           î S                          0.082 sec           î I                                     î D                ìÉ@Rªƒ@             î D                åãm9ô@             î D                $1µòï-@             î D                ?Ü@J9ƒ@             î D                ÎI	Ãò@             î D                U#m©ûî-@             
+î S                         2021-04-08 17:11:45           î S                          1.058 sec           î I                                    î D                "Z≤ö6¸Á?             î D                Ú=≤¬€XÂ?             î D                ¢¬ZR˙·?             î D                ◊Ïwi‘ÏÁ?             î D                $óˇ˙UÂ?             î D                +2J„·?             
+î S                         2021-04-08 17:11:46           î S                          1.612 sec           î I
+                                    î D                ™,îı∫Íÿ?             î D                [€∆e‚¿œ?             î D                D(ÍB“f√?             î D                ye#Iü¢ÿ?             î D                æG∑€#œœ?             î D                ~í])˜¬?             
+î S                         2021-04-08 17:11:46           î S                          2.055 sec           î I                                    î D                Ô`ƒcˇ◊◊?             î D                WπF∆ﬁÃ?             î D                o)-1ƒ¡?             î D                7ÔAŸbè◊?             î D                 ÷Ñ∞ÎÃ?             î D                †›ıî†X¡?             ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:47           î S                          2.390 sec           î I                                     î D                ò#>ä¡ƒ@             î D                Ú¨ãìô@             î D                ”â§™§ï-@             î D                {R‘i ƒ@             î D                Sƒm¬zò@             î D                †Xü”nî-@             
+î S                         2021-04-08 17:11:47           î S                          3.237 sec           î I                                    î D                ¯û) Ë?             î D                k◊t˜XÂ?             î D                ≠
+ˆm> ‚?             î D                _Ò∂Ê˜Á?             î D                ®Ê
+[Â?             î D                è@”™Ú·?             
+î S                         2021-04-08 17:11:48           î S                          3.794 sec           î I
+                                    î D                ﬁ"JÖ_“ÿ?             î D                	À/ÏÉœ?             î D                Í¬¡Nˆ@√?             î D                2'∞ÿ?             î D                ñ!éVÓíœ?             î D                ,~ı_‘√?             
+î S                         2021-04-08 17:11:49           î S                          4.387 sec           î I                                    î D                ‘ôã◊?             î D                |π5∆`:Ã?             î D                {oöFZR¡?             î D                ÔÓ⁄ﬂn◊?             î D                zùr∏LÃ?             î D                Xf’Û·(¡?             ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:47           î S                          2.390 sec           î I                                     î D                z¸ñÆ√@             î D                ˝áÆuò@             î D                ¿¢ˆìì-@             î D                TiÌk»@             î D                )Xæ6Úú@             î D                ”$©£±ú-@             
+î S                         2021-04-08 17:11:47           î S                          3.166 sec           î I                                    î D                ˜Ê<—ÀÏÁ?             î D                >5∆RÂ?             î D                ^˙'@=„·?             î D                ¥Únª•Ë?             î D                ÖÑ
+œRhÂ?             î D                ãY—…(‚?             
+î S                         2021-04-08 17:11:48           î S                          3.763 sec           î I
+                                    î D                øÈ¡’}´ÿ?             î D                IÌâ âœ?             î D                ü:nÀ”√?             î D                Í4¬FŸ?             î D                ÆÚqú¬œ?             î D                $îÁ+˜√?             
+î S                         2021-04-08 17:11:49           î S                          4.349 sec           î I                                    î D                á`>ÓL◊?             î D                EZK§7CÃ?             î D                z-@lO˜¿?             î D                kê%mYÍ◊?             î D                ˇãÿ∂pÃ?             î D                è-º…îﬂ¡?             
+î S                         2021-04-08 17:11:49           î S                          4.684 sec           î I                                    î D                l¯©ŸÆ<◊?             î D                °÷*ÎÃ?             î D                `˜OlÆﬂ¿?             î D                9ı≠¶Á⁄◊?             î D                j2 ÒêHÃ?             î D                ÉfzÜ»¡?             ìScoring History
+
+Timestamp	DurationNumber of TreesTraining RMSETraining MAETraining DevianceValidation RMSEValidation MAEValidation Deviance
+stringstringlongdoubledoubledoubledoubledoubledouble
+%s%s%d%.5f%.5f%.5f%.5f%.5f%.5f
+î S                         2021-04-08 17:11:49           î S                          4.840 sec           î I                                     î D                òäf;@≈@             î D                ƒ+Ö∫◊ô@             î D                pêºNòñ-@             î D                ˙ßqÜ%¬@             î D                …Øjó@             î D                &>?C†ê-@             
+î S                         2021-04-08 17:11:50           î S                          5.440 sec           î I                                    î D                olΩë Ë?             î D                oØJ[Â?             î D                ,‰πû⁄ ‚?             î D                ßﬁî≥ˇÁ?             î D                "h„GWMÂ?             î D                Òx`çˇ·?             
+î S                         2021-04-08 17:11:50           î S                          5.863 sec           î I
+                                    î D                íä
+∂œ€ÿ?             î D                V˚ÉM—ûœ?             î D                Wø_yùO√?             î D                8Q«#¸ÿ?             î D                LèÊªœ?             î D                °Z;˜Å√?             
+î S                         2021-04-08 17:11:50           î S                          6.271 sec           î I                                    î D                JÇå”ƒí◊?             î D                Ø%D7$wÃ?             î D                _ﬂú]¡?             î D                ∆-ñ«‘¬◊?             î D                œ‡5TcÃ?             î D                ∏b¥§¡?             
+î S                         2021-04-08 17:11:51           î S                          6.732 sec           î I                                    î D                Îo}¿~?◊?             î D                ˘Ù˘áÃ?             î D                ,O¿1ƒ„¿?             î D                ^Áërúr◊?             î D                )≠"À?             î D                –Í^b[.¡?             
+î S                         2021-04-08 17:11:51           î S                          6.958 sec           î I                                    î D                 îqî’,◊?             î D                ˜£|¬a‡À?             î D                M÷±»¿?             î D                ~ﬁB‰ga◊?             î D                ó<¡AœÀ?             î D                AI◊-¡?                      ø         
+    8  ´  ˜  -  J  T  ^  a     ï4≥÷≤fï-@4≥÷≤fï-@˝‡“P°ƒ@Ùb[ô@      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯”[6'6S¿      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï#öC.z¸·?#öC.z¸·?l+¨¶˝Á?e5wetXÂ?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯¬\~:3Tˇø      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï™)Ã}√?™)Ã}√?59µ∫ˆ¯ÿ?`_
+V°œ?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯‰÷…ﬂo…?      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ïgNÿ@^¡?gNÿ@^¡?a ü{	ì◊?éó¬=Ã?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯Zñß®ÕL“?      ¯      ¯ïbµü÷˜ê-@bµü÷˜ê-@¶∂S¬@8¬Ë[Ió@      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯oN9:S¿      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ïÄÑ1u«·?ÄÑ1u«·?Ë°(ÿıÁ?yêqOÂ?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯~ÎM#Fˇø      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ïL?ê—qm√?L?ê—qm√?≥!_˚Óÿ?»¿=º>èœ?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯$§YÉ¶ù…?      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯      ¯       ¯      ¯      ¯      ¯ï,M®R¡?,M®R¡?n¢füTã◊?=sSJj6Ã?      ¯ˇ      ¯      ¯      ¯      ¯      ¯      ¯       ¯f∂G•ãZ“?      ¯      ¯∆ˇw≤x  ìx≤x  Úx≤x  Qx≤x  Æx≤x  ˝x≤x  ©x≤x  ˛x≤x  Ox≤x  ¢x≤x  ‰x≤x  ûx≤x  ﬂx≤x  ,x≤x  {x≤x  Àx≤x  ìVariable ImportancesvPAYER_CHANNEL.Managed MedicaidCLAIM_TYPE_CODE.IPAYER_CHANNEL.CommercialPATIENT_STATE.NYPLACE_OF_SERVICE."22"PAYER_KH_ID.102PATIENT_STATE.MAPATIENT_STATE.TXPLACE_OF_SERVICE."20"PAYER_KH_ID.29CLAIM_TYPE_CODE.PPATIENT_STATE.MNPATIENT_STATE.FLPAYER_KH_ID.351UNITSPATIENT_STATE.KYPLACE_OF_SERVICE.PLACE_OF_SERVICE."11"PATIENT_STATE.ORPATIENT_STATE.MDPAYER_KH_ID.189PAYER_KH_ID.302PLACE_OF_SERVICE."19"PAYER_KH_ID.349PATIENT_STATE.LAPAYER_KH_ID.195PAYER_KH_ID.157PATIENT_STATE.OHPAYER_KH_ID.251PAYER_KH_ID.44PATIENT_STATE.CAPATIENT_STATE.AKPAYER_KH_ID.341PATIENT_STATE.WIPAYER_CHANNEL.MedicaidSOC.Inpatient VisitPATIENT_STATE.ARPAYER_KH_ID.140PAYER_KH_ID.144PAYER_KH_ID.221PAYER_KH_ID.343PATIENT_STATE.IAPATIENT_STATE.AZPAYER_KH_ID.14PAYER_KH_ID.250MODIFIER_1.PATIENT_STATE.NDPAYER_KH_ID.38PAYER_KH_ID.326PATIENT_STATE.NVPATIENT_STATE.ALPAYER_KH_ID.131PAYER_KH_ID.67PATIENT_STATE.NEPAYER_KH_ID.186PAYER_KH_ID.261PAYER_KH_ID.73PATIENT_STATE.INPAYER_KH_ID.125PAYER_KH_ID.123PATIENT_STATE.PAPATIENT_STATE.DEPAYER_KH_ID.333PLACE_OF_SERVICE."50"PAYER_KH_ID.65MODIFIER_1."TH"PAYER_KH_ID.51PAYER_KH_ID.299MODIFIER_1."25"PAYER_KH_ID.164PATIENT_STATE.TNPAYER_KH_ID.266PAYER_KH_ID.154PAYER_KH_ID.291PAYER_KH_ID.1MODIFIER_1."SA"PAYER_CHANNEL.PAYER_CHANNEL.MedicarePAYER_KH_ID.PAYER_KH_ID.63PATIENT_STATE.OKPATIENT_STATE.GAPAYER_KH_ID.328PAYER_KH_ID.184PLACE_OF_SERVICE."49"PAYER_KH_ID.213PAYER_KH_ID.244PATIENT_STATE.COPAYER_KH_ID.143!PAYER_CHANNEL.Medicare AdvantagePAYER_KH_ID.309PATIENT_STATE.WVPATIENT_STATE.ILPAYER_KH_ID.175PLACE_OF_SERVICE."17"PAYER_KH_ID.80MODIFIER_1."U3"PAYER_KH_ID.96PAYER_KH_ID.153MODIFIER_1."AM"PATIENT_STATE.MIPATIENT_STATE.SDPAYER_KH_ID.62PAYER_CHANNEL.TRICAREPAYER_KH_ID.21PAYER_KH_ID.240PAYER_KH_ID.239MODIFIER_2."U3"PAYER_KH_ID.257PLACE_OF_SERVICE."53"PLACE_OF_SERVICE."72"MODIFIER_2."25"PAYER_KH_ID.82MODIFIER_2."TH"MODIFIER_2."HA"MODIFIER_2.MODIFIER_1."CG"Relative ImportanceScaled ImportancePercentagedoubledoubledouble%5f%5f%5fvî D                   †Ú¡@             î D                      ?             î D                ,_ËIŒb≈?             î D                   @0∆∞@             î D                4”?>È›?             î D                Õ˚k˝≥?             î D                   †HmØ@             î D                °áÎ‹?             î D                §˚õ;—π≤?             î D                    ©@             î D                ÃÛ™2çO÷?             î D                ’ùü:0“≠?             î D                   ¿5~¢@             î D                ,è÷Ô|–?             î D                °Ë®öÃ	¶?             î D                    ÆF†@             î D                A¯¡ﬂÕ?             î D                 ãeÌwe£?             î D                   Ä+‹ö@             î D                ë—uÜ´Ú«?             î D                œ…2†?             î D                    ‰ï@             î D                äìÜÑ√?             î D                >ÚGwö?             î D                   Ä&»ï@             î D                g“[ãòk√?             î D                q?†%ıô?             î D                   `ö¸ì@             î D                9Ç¯%ﬂ—¡?             î D                'Ä—ó?             î D                   `Ë∑ì@             î D                ˛…üî¡?             î D                û¶\µ¢ó?             î D                    ˝¥í@             î D                x0˛∂∆≠¿?             î D                (˛∑;Kñ?             î D                   ¿ïïí@             î D                Õ<«ë¿?             î D                çˇ˛…ß%ñ?             î D                   ‡ühí@             î D                J≥ú±i¿?             î D                 ∑Î^ï?             î D                    Åıé@             î D                ,3ˆ„<öª?             î D                K˙ª@rrí?             î D                    Ï2à@             î D                ª‘ÄHìµ?             î D                Œ Ù÷ä÷å?             î D                    ädá@             î D                Ù\≈PF€¥?             î D                "k2@ò‡ã?             î D                   †ÍCá@             î D                àÅD0æ¥?             î D                E≤∑πã?             î D                    m á@             î D                •ﬁØãû¥?             î D                ’ÔÌFlèã?             î D                    ¿˛Ü@             î D                ú¯ë[ÖÄ¥?             î D                IëiéJgã?             î D                    ¿ÒÜ@             î D                sƒ&,Ót¥?             î D                ì_∫åÃWã?             î D                   ¿ßPÖ@             î D                j≥a≥?             î D                S·\æfâ?             î D                   `»ÛÑ@             î D                ,µ2Æ@Æ≤?             î D                úò
+¯à?             î D                   ÄæÈÑ@             î D                ÏámM•≤?             î D                ÅﬂºÏà?             î D                   @˙ÿÉ@             î D                ﬂ
+·Œ≤±?             î D                Ó&æêßá?             î D                   ÄﬁÄ@             î D                ºóÒ9„Æ?             î D                wåfÎÎÑ?             î D                    û™@             î D                ñ4∑;¨?             î D                Óç<
+]ﬁÇ?             î D                   ÄçÇ~@             î D                ]â,øø3´?             î D                ∫¶§¨Û-Ç?             î D                   @é¸z@             î D                ¡"◊hã®?             î D                €‚a3~Ä?             î D                    qkz@             î D                z?ûÕ)éß?             î D                Q|?             î D                    íz@             î D                KX&¥Ø8ß?             î D                Êœª5Õ	?             î D                    Ä‰y@             î D                :±{⁄ß?             î D                íoIΩ=€~?             î D                    t&y@             î D                ˜S‚ÿhl¶?             î D                á®3∫¬¯}?             î D                     ¿x@             î D                ≠õèn¶?             î D                ëcó™~}?             î D                   `•Ωw@             î D                ˚Ój∏*•?             î D                Ô¥ù»J|?             î D                   ¿oìv@             î D                MDbó◊ §?             î D                ,£gÁz?             î D                    X@u@             î D                Û»ÛZÉÚ¢?             î D                d‰ÕNSy?             î D                   Ä≠Js@             î D                Ì+1ñ<3°?             î D                9Xw˝v?             î D                    ∏îq@             î D                ÿ3È{ÖYü?             î D                ©∞œ⁄ãÛt?             î D                   ¿çq@             î D                |Ûv(|û?             î D                ì1>¡ì_t?             î D                   ¿<#m@             î D                “¿Ö˙ô?             î D                º8gxû\q?             î D                    v[l@             î D                1ë4 gHô?             î D                ﬂ™◊îÂp?             î D                    ÃEl@             î D                ï`V5ô?             î D                ÈúX;¨ÿp?             î D                   †Ÿk@             î D                πÄçÅò?             î D                 RÎì—p?             î D                     éi@             î D                ﬂÈœÁ∫»ñ?             î D                ‡ﬂ±ä(tn?             î D                   Ä∂Äf@             î D                ©ıÛ&î?             î D                ÑÍûz—j?             î D                    Äe@             î D                æ
+.Lπ¿í?             î D                bd‡j¡i?             î D                     {d@             î D                B©†êBí?             î D                ˚⁄ˆ hh?             î D                   @çSb@             î D                JoUPÁVê?             î D                P$òåˆ÷e?             î D                    JŸa@             î D                √©˝%À”è?             î D                i⁄ CEe?             î D                    úa@             î D                …∑úùfè?             î D                ÖU>L¸d?             î D                    ¿%a@             î D                C,Ì!•ìé?             î D                ›o•Mod?             î D                    h˚`@             î D                TíÒ°#Hé?             î D                ∂TºÖ◊<d?             î D                    –ù`@             î D                bé≤?°ç?             î D                m?à.NÕc?             î D                   †}ê`@             î D                ≥H~¬}âç?             î D                :nΩc?             î D                    Ì‚_@             î D                ›¥ö#Îmå?             î D                éwΩ4Íˇb?             î D                    »è^@             î D                Ìã?ã?             î D                ƒ	 â’5b?             î D                    »x\@             î D                #—Nåbâ?             î D                d(¶R˜`?             î D                    ¯Ï[@             î D                Œ»¢‰Âà?             î D                ˛È˘Äæ£`?             î D                    1ç[@             î D                EÃêà?             î D                ≠®;¿¨j`?             î D                   ÄDA[@             î D                C!√èŒLà?             î D                9ΩÅmo=`?             î D                    ‡–Z@             î D                6ﬁ˝ÉôËá?             î D                O°ÆjÓÙ_?             î D                    å¢Z@             î D                ~ZKøá?             î D                ù6_¿∏Ω_?             î D                    WÖY@             î D                ~#a¡Ü?             î D                ]B+¨÷i^?             î D                    QY@             î D                ƒ„t≤`Ü?             î D                ’≤ŒÈ]?             î D                     	Y@             î D                ÀqsQ&RÜ?             î D                Êªb>©’]?             î D                    ®˛W@             î D                ¶ø*ØÆdÖ?             î D                  Ù∆Aò\?             î D                    ˙‹W@             î D                #ÔüvßFÖ?             î D                ÿÔ[›p\?             î D                   ¿UÕW@             î D                FÉXµ8Ö?             î D                p3˜z]\?             î D                   ÄÁYW@             î D                .ﬂ —Ñ?             î D                ‰¬¨Î”[?             î D                    `ÒV@             î D                §6°îòtÑ?             î D                8yK%ZW[?             î D                    ¿ÔS@             î D                •PEÇi∆Å?             î D                π∑‚Ì.¬W?             î D                   Ä,M@             î D                ,ÖOñ[z?             î D                ÓY`˛⁄aQ?             î D                    ÜñL@             î D                üPﬂÇ}y?             î D                }l(∆Q?             î D                    ` L@             î D                Êx∏πy?             î D                ◊uÚ_¬P?             î D                    VíE@             î D                õwﬂ©ù;s?             î D                µI?             î D                    Ä}E@             î D                *‡Úˆ	)s?             î D                 #	z/úI?             î D                   †ä;D@             î D                i©¡ä¸	r?             î D                Y◊4ÅH?             î D                   @}—C@             î D                #.•n´q?             î D                ˝ûOûG?             î D                     r;@             î D                5‚z~Axh?             î D                °=yZ@?             î D                   ¿¨;@             î D                xèëh?             î D                ‡*Ï¬Ö@?             î D                    ÄS8@             î D                ´TÛÿS∞e?             î D                7∑∞]˝<?             î D                     R8@             î D                k›z˝Æe?             î D                ¶ù˚î˚<?             î D                     8@             î D                y‰Y^rie?             î D                as‡†û<?             î D                    r6@             î D                 qû"d?             î D                ñ|Œ®≤ø:?             î D                    _6@             î D                 ﬂ!2ÌÚc?             î D                }sr™:?             î D                    ¿⁄5@             î D                $†–-|c?             î D                ÍÂlÚO:?             î D                   ¿uß5@             î D                ˛˝›sNc?             î D                0øÇÉ0Œ9?             î D                    ~”3@             î D                Ä"–Õ7≠a?             î D                \I√Ç†7?             î D                   `+æ1@             î D                ÛUÃo£_?             î D                ÍäÆ_Ò$5?             î D                    ^t1@             î D                Ùê`’_?             î D                Cuh˘˝Ã4?             î D                    .@             î D                ˇ3O$Ê√Z?             î D                N˜çÉ3„1?             î D                   @I˜,@             î D                ˚DV”Y?             î D                sQ7nB1?             î D                    ™,@             î D                °]s4|éY?             î D                ≈àüj1?             î D                     Å*@             î D                4‡ﬁqb°W?             î D                A˜h[æï/?             î D                    ÄÃ(@             î D                ¡û~5V?             î D                †è)êç-?             î D                   ÄÈ=(@             î D                ›D‹ÑùU?             î D                Û°M∂£„,?             î D                    ê8%@             î D                Yä‡RìÎR?             î D                {∏ê3J)?             î D                     Ó"@             î D                \ê[õ‡P?             î D                °;Ã8è&?             î D                    ^ @             î D                t€6y/H?             î D                ‡.ÿ‘) ?             î D                   †àÂ@             î D                †UL¬˚G?             î D                ”äfu∆ ?             î D                    Ä¶@             î D                r/T˙E?             î D                ∆`ÓG`?             î D                    öÖ@             î D                `åGˇ‹E?             î D                æè“ã9?             î D                    ¯b@             î D                ÓCæ…ﬂŸD?             î D                7åÔπﬁ?             î D                    cV@             î D                XkGiÍC?             î D                )#∏¶û?             î D                   @˝@             î D                x_¶Ó@?             î D                È8? Ú†?             î D                    pu@             î D                °ıÜB(;?             î D                zÆË#&?             î D                    î⁄	@             î D                i#{7?             î D                µ‡ùÃjœ?             î D                   @,@             î D                îâS∑Ì®4?             î D                ÂMù?             î D                    3ô@             î D                ìH‰r}]2?             î D                Ì¡Øå?             î D                   ÄP@             î D                cænÑ2?             î D                Ã’‹<6?             î D                     £@             î D                ◊6kÇ¸r/?             î D                 ˚¡óê?             î D                    ÿ$@             î D                ÷˛<pí.?             î D                *√+9n?             î D                    ˝+˝?             î D                $£˚S*?             î D                à2BU’a?             î D                   †«(˙?             î D                R…Ãû∫R'?             î D                €XX\ú,ˇ>             î D                    ô+‰?             î D                ˛∞/p≈˚?             î D                F£-Å	Ë>             î D                   ‡˚‰?             î D                ‰_~hÜ?             î D                —TÏx˙Á>             	VariableìVariable Importances - CovervPAYER_CHANNEL.CommercialCLAIM_TYPE_CODE.IPLACE_OF_SERVICE."22"PAYER_CHANNEL.Managed MedicaidPATIENT_STATE.MAPATIENT_STATE.KYPATIENT_STATE.ORPLACE_OF_SERVICE."20"PATIENT_STATE.MNPATIENT_STATE.TXPAYER_KH_ID.140PATIENT_STATE.OHPATIENT_STATE.LAPAYER_CHANNEL.MedicaidPAYER_KH_ID.302PLACE_OF_SERVICE."19"PATIENT_STATE.AKPATIENT_STATE.FLPAYER_KH_ID.157PAYER_KH_ID.189PAYER_KH_ID.44CLAIM_TYPE_CODE.PPAYER_KH_ID.144PATIENT_STATE.CAPATIENT_STATE.AZPAYER_KH_ID.65PATIENT_STATE.PAPAYER_KH_ID.349PAYER_KH_ID.67PATIENT_STATE.INPAYER_KH_ID.73PAYER_KH_ID.299MODIFIER_1.PAYER_KH_ID.51PAYER_KH_ID.333PATIENT_STATE.NEPATIENT_STATE.TNPAYER_KH_ID.250PATIENT_STATE.ALPATIENT_STATE.NYPATIENT_STATE.NDPATIENT_STATE.WIPATIENT_STATE.IAPAYER_KH_ID.341PAYER_KH_ID.351PAYER_KH_ID.195PLACE_OF_SERVICE."11"PAYER_KH_ID.102PLACE_OF_SERVICE.PATIENT_STATE.MDPATIENT_STATE.ARPATIENT_STATE.DEMODIFIER_1."TH"PAYER_KH_ID.14UNITSPAYER_KH_ID.186PLACE_OF_SERVICE."50"MODIFIER_1."SA"PAYER_KH_ID.251PAYER_KH_ID.29PAYER_KH_ID.221PAYER_KH_ID.125PAYER_KH_ID.343PAYER_CHANNEL.MedicareMODIFIER_1."25"PAYER_KH_ID.123!PAYER_CHANNEL.Medicare AdvantagePAYER_KH_ID.164PAYER_KH_ID.PATIENT_STATE.NVPAYER_KH_ID.38PAYER_KH_ID.291PAYER_KH_ID.131PAYER_KH_ID.143PAYER_KH_ID.326PAYER_KH_ID.63SOC.Inpatient VisitPAYER_KH_ID.21PAYER_KH_ID.244PATIENT_STATE.GAPAYER_KH_ID.154PAYER_KH_ID.213PATIENT_STATE.OKPAYER_CHANNEL.PAYER_KH_ID.184PAYER_KH_ID.261PATIENT_STATE.COPAYER_KH_ID.96PLACE_OF_SERVICE."17"PLACE_OF_SERVICE."49"PAYER_KH_ID.153PAYER_KH_ID.1PAYER_KH_ID.239MODIFIER_1."U3"PATIENT_STATE.SDMODIFIER_2."U3"PATIENT_STATE.ILPAYER_KH_ID.266PAYER_KH_ID.328PLACE_OF_SERVICE."72"PAYER_KH_ID.80MODIFIER_2."HA"PAYER_CHANNEL.TRICAREPAYER_KH_ID.62PATIENT_STATE.MIMODIFIER_2."25"PAYER_KH_ID.309PAYER_KH_ID.175PAYER_KH_ID.82MODIFIER_1."CG"PAYER_KH_ID.257PATIENT_STATE.WVMODIFIER_1."AM"PAYER_KH_ID.240MODIFIER_2."TH"PLACE_OF_SERVICE."53"MODIFIER_2.Relative ImportanceScaled ImportancePercentagedoubledoubledouble%5f%5f%5fvî D                    ò?A             î D                      ?             î D                
+]Ñn#0´?             î D                    jˆ>A             î D                UfhA@\Ô?             î D                O«P•™?             î D                    —·>A             î D                û$SÇcGÔ?             î D                £AU≠Iì™?             î D                    ◊;A             î D                ”ƒ¥	Ñ3Ï?             î D                8<˝Á„ıß?             î D                    {¬9A             î D                saöz4Í?             î D                ›?ß˘”*¶?             î D                    Iº7A             î D                âƒ¬Z
+Ë?             î D                Áê¢.Êl§?             î D                    ñp4A             î D                ¬ŒÂ(–≥‰?             î D                ]©ÍF‹ñ°?             î D                    24A             î D                È/¶¥5T‰?             î D                `~K#¢E°?             î D                    >2A             î D                zZùÿz‚?             î D                õs}eü?             î D                    jª1A             î D                ˇSKºı·?             î D                €π∂Ñû?             î D                    æ/A             î D                »œmÇﬂ?             î D                Ï£·ß"≈ö?             î D                    >.A             î D                f§E)vﬁ?             î D                âF*°Ö·ô?             î D                    ¿ü-A             î D                ı©ß8/ﬁ?             î D                OGé◊"~ô?             î D                    :-A             î D                Õﬁ8ö›?             î D                ◊ı5®&ô?             î D                    ∏¨,A             î D                ~2	‚›?             î D                ™|ÈZˇ¨ò?             î D                    Êô,A             î D                ≈v˚˜˜‹?             î D                €hCÕúò?             î D                    Æe,A             î D                ΩÎ£;√‹?             î D                Âs_â›oò?             î D                    (Ö*A             î D                LA∆a‹⁄?             î D                ŒÏøœZ“ñ?             î D                    ™≠)A             î D                °ÉU⁄?             î D                ÙÒy%Íñ?             î D                    d 'A             î D                õwÇ£ÿ?             î D                ™“Éô	yî?             î D                    l'A             î D                Û˛∏Q_◊?             î D                yõŸŒï€ì?             î D                    ¶Œ&A             î D                è≠LÖ©◊?             î D                 ”ôg†ì?             î D                    &l A             î D                ˇd∞ó)¢–?             î D                Ú/`Ç±Cå?             î D                    l' A             î D                3˛fåç\–?             î D                ÏL¡hÕã?             î D                    ∂ A             î D                ëÈbe9–?             î D                3º33´ëã?             î D                    t¡A             î D                xqÛ–?             î D                n·çíºSã?             î D                    T¡A             î D                7—“‚–?             î D                ‡N˛°Sã?             î D                    t¨A             î D                {’É~P
+–?             î D                D¥UL™Aã?             î D                    ¥{A             î D                Ñ°ﬁ•@„œ?             î D                 púª∂ã?             î D                    ú{A             î D                TÃÓV(„œ?             î D                ¬p¢ã?             î D                    »;A             î D                ì®hÇ¢œ?             î D                Æq“¥‡ä?             î D                    6A             î D                ’¶ªúœ?             î D                !ë:nÃ€ä?             î D                    (ŒA             î D                «6úÿy3œ?             î D                [ˇóë^Çä?             î D                    ®∞A             î D                y÷–—òœ?             î D                }‰<¡˚hä?             î D                    ƒ˜A             î D                ®2µTZŒ?             î D                @ìì‡…â?             î D                    ¨§A             î D                L‚÷h+Œ?             î D                Âq _Çâ?             î D                    L<A             î D                Ωô*ôÃ?             î D                /˝#Ù@Là?             î D                    £A             î D                Œ≥k=¥˙ ?             î D                ùàëÏÜ?             î D                    hiA             î D                ‘õÚÄF¿ ?             î D                ≥’>Öy∫Ü?             î D                    ê,A             î D                5%Ôb¶Ç ?             î D                HÓÇ∑ÜÜ?             î D                    ÎA             î D                âÁ€[@ ?             î D                ™ 8y MÜ?             î D                    |tA             î D                x⁄Z˚¬∑ƒ?             î D                	T7öÅ?             î D                    åA             î D                \€ûò§Zƒ?             î D                -≈aKÅ?             î D                    »LA             î D                VTW‹©º?             î D                ú˘ppZx?             î D                     GA             î D                Q±ZŸñ∏?             î D                6£w‰D‰t?             î D                    0BA             î D                ôíbàØé∑?             î D                /©À7‘t?             î D                    p-A             î D                WÏòLsµ?             î D                »¡â`9r?             î D                    †2 A             î D                [eÊg∞?             î D                “™”“∞‡k?             î D                    †Dˇ@             î D                Î·x~w´Ø?             î D                i–ﬁQËj?             î D                     Ê˙@             î D                Ã Dµò>´?             î D                {FêËÃ%g?             î D                     ì¯@             î D                ÜiªÛ„®?             î D                ÎF#«%e?             î D                     %Ï@             î D                ﬁLÀëÅú?             î D                ´=Æ48X?             î D                    `"Í@             î D                ÇQ!·Txö?             î D                ∆MlY}V?             î D                     ¢Á@             î D                	o€Ôó?             î D                …âª!cVT?             î D                    ¿Ê@             î D                ∫¨f_ñ?             î D                œ…”Ä&S?             î D                     Â@             î D                ¿«∞O`Sï?             î D                ﬂŸåmR?             î D                    @2„@             î D                Ñ¨A$cqì?             î D                «lxBÎÑP?             î D                    @4‡@             î D                òΩãiê?             î D                =çhÀ|„K?             î D                    @{‹@             î D                Fq±-Ìÿå?             î D                ∂≠6smÇH?             î D                    @a€@             î D                î}®´Mªã?             î D                ±*˚1¡èG?             î D                    Ä_€@             î D                øú+Íáπã?             î D                Ó&!¨?éG?             î D                    @é⁄@             î D                y‚ ØóÂä?             î D                •“L'.⁄F?             î D                    @b⁄@             î D                €_o˜πä?             î D                tO„Q¥F?             î D                    ¿ä÷@             î D                ñÃI3‰‘Ü?             î D                jG)˘eC?             î D                     –@             î D                ;às-£5Ä?             î D                Üá+Hã;?             î D                    Ä\œ@             î D                ˙J¶√?             î D                S(˝∏‹¸:?             î D                    Ä∆Õ@             î D                ä‚´n(~?             î D                7øik{ü9?             î D                     ƒÀ@             î D                §UxvR|?             î D                ≈l	≥ª‰7?             î D                     É«@             î D                —Ù¥T–w?             î D                µ˝Uö;4?             î D                    Äf«@             î D                ŸÀA˜v≥w?             î D                Gw7—#4?             î D                     -«@             î D                ?^®ÿ9yw?             î D                1 <£òÒ3?             î D                     ‹≈@             î D                GáqÂ#v?             î D                .π<Ûóœ2?             î D                     ó≈@             î D                Zù|ﬁu?             î D                ∑®U7î2?             î D                     W≈@             î D                »Óˇ/ùu?             î D                )õÉ6$]2?             î D                     =ƒ@             î D                d‘Â}êt?             î D                $Hıwj1?             î D                     Y√@             î D                £å|ó¢òs?             î D                Æ‰S÷C¶0?             î D                    Ä	¬@             î D                ´””Dr?             î D                •∏2/?             î D                    Ä√¿@             î D                [íÂ¢˙p?             î D                8¨‘d⁄,?             î D                     Ω@             î D                ú,ﬁ¶tm?             î D                »”cº)?             î D                     ôª@             î D                Z
+≈≈Ûk?             î D                ~⁄∫ø'?             î D                     Îµ@             î D                B≈Ê∆3f?             î D                πkânÄ‹"?             î D                     ≥@             î D                ∑¢˜•øRc?             î D                î‚ø8„j ?             î D                     è≤@             î D                Ü„‰4
+Ãb?             î D                â¯ﬁ?             î D                     é≤@             î D                1¨ÊÍÀb?             î D                @`_&Ô?             î D                     ©±@             î D                -∫„a?             î D                t–2àe?             î D                     ¢±@             î D                »©ã¥˛€a?             î D                X≤bY˘X?             î D                     à∞@             î D                ∂Ç2_æ`?             î D                O¨Î÷†s?             î D                     6Æ@             î D                °£f]ô^?             î D                €e¨ªnˇ?             î D                     ¢¨@             î D                fQÏ†, ]?             î D                ù%∆£?             î D                     R¨@             î D                “{Å%Ø\?             î D                ∑¬# Ó^?             î D                     ™@             î D                 õeäWZ?             î D                wÄ@}a?             î D                     Ê©@             î D                ”ÕM.;Z?             î D                @Dl‚dI?             î D                     ˛§@             î D                ÑãçFCU?             î D                V 4üç?             î D                     –£@             î D                -E®¸)T?             î D                ò‰<d´?             î D                     X£@             î D                NU~MüóS?             î D                >P◊âg•?             î D                     ˙°@             î D                ØÓ# 5R?             î D                øÔm?             î D                     $°@             î D                ÎmlI`\Q?             î D                jî¿Ä?             î D                     ﬁ†@             î D                ©LÈzQ?             î D                Wgü:§?             î D                     †@             î D                4^C˚˚PP?             î D                nŒM¿π?             î D                     †@             î D                Âújü≥:P?             î D                „Íd(„ì?             î D                     Äó@             î D                “N÷JÕG?             î D                f@†o9?             î D                     4ï@             î D                u7-‚ºyE?             î D                ‰O{¡??             î D                     ¨î@             î D                F“ì˝ÔD?             î D                êtL˝…?             î D                     Hê@             î D                “‡Ù≤å}@?             î D                xt°òz¸>             î D                     ,ê@             î D                Ö”&õ0a@?             î D                
+¸`›I’˚>             î D                     pÜ@             î D                sÑ˘7Ãπ6?             î D                æâB+ÙNÛ>             î D                     XÉ@             î D                NU~Müó3?             î D                >P◊âg•>             î D                     ¿Å@             î D                ø%V`a˙1?             î D                Ö|ïFõåÓ>             î D                     –~@             î D                ÀÏÈW5/?             î D                	±ùæÙÉÍ>             î D                     |@             î D                P-a,-O-?             î D                §_UÂÊË>             î D                     |@             î D                P-a,-O-?             î D                §_UÂÊË>             î D                     ∞r@             î D                }™ævÌ"?             î D                ıÊX’‡>             î D                     pq@             î D                +€‰@Z©!?             î D                π∂∏xÎﬁ>             î D                     Äh@             î D                ·£K‘î–?             î D                ∞4ÏQ’>             î D                     ‡d@             î D                å√ö®$?             î D                @õö®ºˆ—>             î D                      Z@             î D                v£û—ÉU
+?             î D                óWßƒ_∆>             î D                      B@             î D                ˚„ﬂ3;Ú>             î D                [¥ﬂÑ¡˙Æ>             	Variableì!Variable Importances - FrequencyvPLACE_OF_SERVICE."11"PAYER_CHANNEL.CommercialPLACE_OF_SERVICE."20"PLACE_OF_SERVICE."22"CLAIM_TYPE_CODE.IPAYER_CHANNEL.Managed MedicaidUNITSMODIFIER_1.MODIFIER_1."25"PLACE_OF_SERVICE.PATIENT_STATE.CAPLACE_OF_SERVICE."19"PAYER_KH_ID.195PATIENT_STATE.FLPAYER_KH_ID.14PLACE_OF_SERVICE."50"PATIENT_STATE.NYPAYER_KH_ID.351CLAIM_TYPE_CODE.PPATIENT_STATE.LAPAYER_KH_ID.302PAYER_CHANNEL.MedicarePATIENT_STATE.OHPAYER_KH_ID.186PATIENT_STATE.TXPATIENT_STATE.KYPAYER_CHANNEL.MedicaidMODIFIER_1."SA"PAYER_KH_ID.144PATIENT_STATE.MA!PAYER_CHANNEL.Medicare AdvantagePATIENT_STATE.ORPAYER_KH_ID.349PAYER_KH_ID.44PATIENT_STATE.ILPAYER_KH_ID.251PAYER_KH_ID.157PAYER_KH_ID.PATIENT_STATE.MIPATIENT_STATE.MNPAYER_KH_ID.326PAYER_KH_ID.67PAYER_KH_ID.213PAYER_KH_ID.73PAYER_KH_ID.102PAYER_KH_ID.341MODIFIER_2."TH"PAYER_KH_ID.189PAYER_KH_ID.343PAYER_KH_ID.221PATIENT_STATE.AZPATIENT_STATE.AKPATIENT_STATE.ARPAYER_KH_ID.125PATIENT_STATE.IAPATIENT_STATE.TNPAYER_KH_ID.131PLACE_OF_SERVICE."72"PAYER_KH_ID.261PAYER_KH_ID.140PAYER_KH_ID.29PAYER_KH_ID.309PATIENT_STATE.NVPATIENT_STATE.MDPAYER_KH_ID.65PAYER_KH_ID.291PAYER_KH_ID.63PAYER_KH_ID.62PAYER_CHANNEL.TRICAREPAYER_KH_ID.333PLACE_OF_SERVICE."53"PLACE_OF_SERVICE."49"PATIENT_STATE.PAPAYER_KH_ID.175PAYER_KH_ID.299PATIENT_STATE.WVPATIENT_STATE.GAPATIENT_STATE.OKPAYER_KH_ID.1PAYER_KH_ID.184PATIENT_STATE.WIMODIFIER_1."TH"PAYER_KH_ID.239PATIENT_STATE.ALPAYER_KH_ID.38PATIENT_STATE.INPAYER_KH_ID.51SOC.Inpatient VisitMODIFIER_1."CG"PAYER_KH_ID.240PAYER_KH_ID.244PAYER_KH_ID.123MODIFIER_1."AM"PAYER_KH_ID.21PATIENT_STATE.DEPAYER_KH_ID.257PATIENT_STATE.COPAYER_CHANNEL.PAYER_KH_ID.250PLACE_OF_SERVICE."17"MODIFIER_1."U3"PATIENT_STATE.SDPAYER_KH_ID.143PAYER_KH_ID.266MODIFIER_2."HA"PAYER_KH_ID.82PAYER_KH_ID.80MODIFIER_2."25"PATIENT_STATE.NDPATIENT_STATE.NEPAYER_KH_ID.154PAYER_KH_ID.153PAYER_KH_ID.96MODIFIER_2."U3"MODIFIER_2.PAYER_KH_ID.328PAYER_KH_ID.164Relative ImportanceScaled ImportancePercentagedoubledoubledouble%5f%5f%5fvî D                      7@             î D                      ?             î D                ”nü^
+–≠?             î D                      4@             î D                ΩÈMoz”Î?             î D                Ÿ3ïéÏ©?             î D                      2@             î D                ëÖ,d!È?             î D                ›a[πÊTß?             î D                      2@             î D                ëÖ,d!È?             î D                ›a[πÊTß?             î D                      1@             î D                z”õﬁÙ¶Á?             î D                ﬂ¯ÄÀ	¶?             î D                      1@             î D                z”õﬁÙ¶Á?             î D                ﬂ¯ÄÀ	¶?             î D                      0@             î D                d!Y»BÊ?             î D                ·è¶›>Ω§?             î D                      (@             î D                Y»B≤‡?             î D                —◊yLﬁü?             î D                      $@             î D                ΩÈMoz”€?             î D                Ÿ3ïéÏô?             î D                       @             î D                d!Y»B÷?             î D                ·è¶›>Ωî?             î D                       @             î D                d!Y»B÷?             î D                ·è¶›>Ωî?             î D                       @             î D                d!Y»B÷?             î D                ·è¶›>Ωî?             î D                      @             î D                8ΩÈMoz”?             î D                ÂΩÒó%í?             î D                      @             î D                8ΩÈMoz”?             î D                ÂΩÒó%í?             î D                      @             î D                Y»B≤–?             î D                —◊yLﬁè?             î D                      @             î D                Y»B≤–?             î D                —◊yLﬁè?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                ΩÈMoz”À?             î D                Ÿ3ïéÏâ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                d!Y»B∆?             î D                ·è¶›>ΩÑ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                      @             î D                Y»B≤¿?             î D                —◊yLﬁ?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                       @             î D                d!Y»B∂?             î D                ·è¶›>Ωt?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             î D                      ?             î D                d!Y»B¶?             î D                ·è¶›>Ωd?             	VariableßvQ$;D@€Cà »B0¥dB ê€A–,ƒ@¿ª@Äˇ≤A`’Bò…$@ê≥A$
+⁄BÄPeA[ÒçA–ÁæB–(pAlÙC ú¬Af5ÿA@~ÙBh9Dp5EÙM'D aB∞0HE  ¿A†3…C  ∆CÌÉCË_È? é7DÊiCnƒàCà[”C`.bC H»BÄ´s@ $œCÄ‡C‘D¿™CˇDìD ÿ#CCøùD@∆„B@ıøB~õ¥CJ∫gA¿gﬂBﬂ˜ ?ÆjæBZËó@Ç1ÜE∞€bC ÷ÆAài‹BŸ@ ã∑B≥≤@ á÷B‡ ØDí`9@`óADEj{E+ÌΩCÆ;≠A“«D Ï+Br‰◊C pLC .	C	¨wD TALÔAAê\–C∞í,BÑá"@>Ö*D4AÆDhˇBlUöC 4≈@õûA”‰üD ~üB¡•åC=F—?¢ãAÆ¨îD¥4C¿&	@Q C dFA @ÒT˝CU:D D(CÄÓC4`iBCû'D pAÕFXCÍãBÄƒ)AE,◊@†‘N@»\!?ËßïDπ*ÃBÆÒEjúC•êF ê¬A ˆ7D<œ∫B\·÷DU‹!BvPLACE_OF_SERVICE.PAYER_KH_ID.67PAYER_KH_ID.65PAYER_KH_ID.291PAYER_KH_ID.63PAYER_KH_ID.62PAYER_CHANNEL.TRICAREPAYER_KH_ID.213PAYER_KH_ID.333PLACE_OF_SERVICE."53"PLACE_OF_SERVICE."49"PATIENT_STATE.PAPAYER_KH_ID.175!PAYER_CHANNEL.Medicare AdvantagePAYER_KH_ID.299PATIENT_STATE.WVPATIENT_STATE.OHPATIENT_STATE.GAPATIENT_STATE.OKPAYER_KH_ID.73PATIENT_STATE.ORPAYER_KH_ID.102PAYER_KH_ID.349PAYER_KH_ID.1PATIENT_STATE.NYPAYER_KH_ID.184PAYER_KH_ID.341PATIENT_STATE.WIPAYER_KH_ID.186MODIFIER_2."TH"PAYER_KH_ID.189PAYER_KH_ID.343PAYER_KH_ID.221PAYER_KH_ID.44PATIENT_STATE.AZMODIFIER_1."TH"PAYER_KH_ID.239PATIENT_STATE.AKPATIENT_STATE.ALPAYER_KH_ID.195PATIENT_STATE.ARPAYER_KH_ID.351PAYER_KH_ID.38CLAIM_TYPE_CODE.PPATIENT_STATE.INPAYER_KH_ID.51SOC.Inpatient VisitPATIENT_STATE.ILPAYER_KH_ID.125MODIFIER_1."CG"MODIFIER_1."25"PAYER_KH_ID.240CLAIM_TYPE_CODE.IPATIENT_STATE.IAPAYER_KH_ID.244PAYER_KH_ID.123MODIFIER_1."AM"PATIENT_STATE.TNPAYER_KH_ID.21PATIENT_STATE.DEPATIENT_STATE.TXPAYER_KH_ID.257PATIENT_STATE.KYPAYER_CHANNEL.CommercialPAYER_CHANNEL.MedicaidPATIENT_STATE.COPATIENT_STATE.LAPAYER_CHANNEL.PAYER_KH_ID.251PAYER_KH_ID.250PAYER_KH_ID.131UNITSPLACE_OF_SERVICE."17"MODIFIER_1."U3"PATIENT_STATE.CAMODIFIER_1."SA"PLACE_OF_SERVICE."72"PAYER_KH_ID.302PLACE_OF_SERVICE."20"PAYER_KH_ID.261PAYER_KH_ID.140PATIENT_STATE.SDPAYER_KH_ID.143PAYER_KH_ID.29PAYER_KH_ID.266PAYER_KH_ID.144MODIFIER_2."HA"PAYER_KH_ID.309PATIENT_STATE.FLMODIFIER_1.PAYER_KH_ID.82PATIENT_STATE.NVPAYER_KH_ID.80MODIFIER_2."25"PAYER_KH_ID.157PLACE_OF_SERVICE."11"PATIENT_STATE.NDPATIENT_STATE.NEPAYER_KH_ID.154PLACE_OF_SERVICE."19"PAYER_KH_ID.153PAYER_KH_ID.14PAYER_KH_ID.PAYER_KH_ID.96PATIENT_STATE.MIMODIFIER_2."U3"MODIFIER_2.PATIENT_STATE.MNPLACE_OF_SERVICE."50"PLACE_OF_SERVICE."22"PAYER_KH_ID.326PAYER_CHANNEL.Managed MedicaidPAYER_KH_ID.328PATIENT_STATE.MDPAYER_KH_ID.164PATIENT_STATE.MAPAYER_CHANNEL.Medicarev %˙G†›˚H†˛H ‡.F »F @ÇD `•D †òE æÔH  –B êbE†
+˛H  D 4nF†∞˘H ÄïCôpI »‹E xîE@ﬁ˘H∞Ñ£I ïH†c˝H 0OEÄd—H HçE@fbH‡££H q(G  'C S>I ”F ¸⁄F`õ8I∞% I QG 'Ep-cI@K”HÄ:H ôƒG 8BH h9F0u6I‡‹˚H@ÖıH LF  	E r‘F ÄÁC ÄF  DCP≥˜I`ƒ†H ®ËE ‰zF ÄãC`‚·H F (aGP€çI ÄÁCH‚ΩI∞¿¸I¿–iI @ÑE ˛lI pîE ⁄„F¿’H ∏,F ∂0G eE ÄE`;I ¢G 0 E¿eeIêë†I çE›xI ¿E ∏*F 
+€F E0aI †©D ¿D@)TI@qˆH ÄˆC 4;F  ºD Ä3DPmMIÄk)H‡XœH`%ÌH XØE0œdI PE =G <F ∞qE `ÅD –E  B ëI íGà˜I Ë!FÄøﬁI ‡ E 1◊G  ^FÿŒI V¥Fv                                                                                                                                                      
+                                                                                                                                                                                                         ìNative XGBoost ParametersNameValuestringstring%s%sî S                         silent           î Bo                                    î S                         eta           î D                333333”?             î S                         colsample_bylevel           î D                öôôôôôÈ?             î S                         
+objective           î S                         reg:squarederror           î S                         min_child_weight           î D                      @             î S                         nthread           î I                                    î S                         seed           î I                                    î S                         
+max_depth           î I                                    î S                         colsample_bytree           î D                öôôôôôÈ?             î S                         lambda           î F              Ä?                     î S                         gamma           î F                                     î S                         alpha           î F                                     î S                         booster           î S                         gbtree           î S                         grow_policy           î S                         
+depthwise           î S                         nround           î I                                    î S                         
+subsample           î D                öôôôôôÈ?             î S                         max_delta_step           î F                                     î S                         tree_method           î S                         exact            ñ      ¯?      ‡?      ¯ò  $5,ˇø   ˇˇˇˇ_8bc3cde90c3f095eaa655e152248423fcategorically adapted vec5,ˇæ   ˇˇˇˇ_8bc3cde90c3f095eaa655e152248423fcategorically adapted vec5,ˇº   ˇˇˇˇ_8bc3cde90c3f095eaa655e152248423fcategorically adapted vec5,ˇΩ   ˇˇˇˇ_8bc3cde90c3f095eaa655e152248423fcategorically adapted vec öà5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex57Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex              
+          ¯?      ‡?ÕÃÃÃÃÃÏ?    ˇˇˇˇ             NÜR“dRT?LOG_ALLOWED_AMOUNT   †@         ˇˇˇˇ                 @      ?333333”?333333”?      ?öôôôôôÈ?      ?öôôôôôÈ?      ?      ?öôôôôôÈ?      ?             †  †          ˇˇˇˇ              Ä?                  5"_b58507be7da876a16082f4fafdc74f0bˇ50 PAYER_KH_ID. i
+1 PAYER_KH_ID.1 i
+2 PAYER_KH_ID.10 i
+3 PAYER_KH_ID.100 i
+4 PAYER_KH_ID.101 i
+5 PAYER_KH_ID.102 i
+6 PAYER_KH_ID.103 i
+7 PAYER_KH_ID.104 i
+8 PAYER_KH_ID.106 i
+9 PAYER_KH_ID.107 i
+10 PAYER_KH_ID.108 i
+11 PAYER_KH_ID.109 i
+12 PAYER_KH_ID.11 i
+13 PAYER_KH_ID.110 i
+14 PAYER_KH_ID.111 i
+15 PAYER_KH_ID.112 i
+16 PAYER_KH_ID.113 i
+17 PAYER_KH_ID.115 i
+18 PAYER_KH_ID.117 i
+19 PAYER_KH_ID.118 i
+20 PAYER_KH_ID.119 i
+21 PAYER_KH_ID.12 i
+22 PAYER_KH_ID.120 i
+23 PAYER_KH_ID.121 i
+24 PAYER_KH_ID.122 i
+25 PAYER_KH_ID.123 i
+26 PAYER_KH_ID.124 i
+27 PAYER_KH_ID.125 i
+28 PAYER_KH_ID.126 i
+29 PAYER_KH_ID.127 i
+30 PAYER_KH_ID.129 i
+31 PAYER_KH_ID.13 i
+32 PAYER_KH_ID.130 i
+33 PAYER_KH_ID.131 i
+34 PAYER_KH_ID.132 i
+35 PAYER_KH_ID.134 i
+36 PAYER_KH_ID.135 i
+37 PAYER_KH_ID.136 i
+38 PAYER_KH_ID.137 i
+39 PAYER_KH_ID.138 i
+40 PAYER_KH_ID.139 i
+41 PAYER_KH_ID.14 i
+42 PAYER_KH_ID.140 i
+43 PAYER_KH_ID.141 i
+44 PAYER_KH_ID.143 i
+45 PAYER_KH_ID.144 i
+46 PAYER_KH_ID.145 i
+47 PAYER_KH_ID.147 i
+48 PAYER_KH_ID.148 i
+49 PAYER_KH_ID.149 i
+50 PAYER_KH_ID.15 i
+51 PAYER_KH_ID.150 i
+52 PAYER_KH_ID.151 i
+53 PAYER_KH_ID.152 i
+54 PAYER_KH_ID.153 i
+55 PAYER_KH_ID.154 i
+56 PAYER_KH_ID.155 i
+57 PAYER_KH_ID.157 i
+58 PAYER_KH_ID.158 i
+59 PAYER_KH_ID.159 i
+60 PAYER_KH_ID.16 i
+61 PAYER_KH_ID.160 i
+62 PAYER_KH_ID.161 i
+63 PAYER_KH_ID.162 i
+64 PAYER_KH_ID.163 i
+65 PAYER_KH_ID.164 i
+66 PAYER_KH_ID.165 i
+67 PAYER_KH_ID.166 i
+68 PAYER_KH_ID.168 i
+69 PAYER_KH_ID.169 i
+70 PAYER_KH_ID.17 i
+71 PAYER_KH_ID.170 i
+72 PAYER_KH_ID.172 i
+73 PAYER_KH_ID.174 i
+74 PAYER_KH_ID.175 i
+75 PAYER_KH_ID.176 i
+76 PAYER_KH_ID.177 i
+77 PAYER_KH_ID.179 i
+78 PAYER_KH_ID.18 i
+79 PAYER_KH_ID.180 i
+80 PAYER_KH_ID.181 i
+81 PAYER_KH_ID.182 i
+82 PAYER_KH_ID.183 i
+83 PAYER_KH_ID.184 i
+84 PAYER_KH_ID.185 i
+85 PAYER_KH_ID.186 i
+86 PAYER_KH_ID.187 i
+87 PAYER_KH_ID.188 i
+88 PAYER_KH_ID.189 i
+89 PAYER_KH_ID.19 i
+90 PAYER_KH_ID.190 i
+91 PAYER_KH_ID.191 i
+92 PAYER_KH_ID.192 i
+93 PAYER_KH_ID.193 i
+94 PAYER_KH_ID.195 i
+95 PAYER_KH_ID.196 i
+96 PAYER_KH_ID.197 i
+97 PAYER_KH_ID.198 i
+98 PAYER_KH_ID.199 i
+99 PAYER_KH_ID.2 i
+100 PAYER_KH_ID.20 i
+101 PAYER_KH_ID.200 i
+102 PAYER_KH_ID.201 i
+103 PAYER_KH_ID.202 i
+104 PAYER_KH_ID.204 i
+105 PAYER_KH_ID.206 i
+106 PAYER_KH_ID.207 i
+107 PAYER_KH_ID.208 i
+108 PAYER_KH_ID.209 i
+109 PAYER_KH_ID.21 i
+110 PAYER_KH_ID.210 i
+111 PAYER_KH_ID.212 i
+112 PAYER_KH_ID.213 i
+113 PAYER_KH_ID.214 i
+114 PAYER_KH_ID.215 i
+115 PAYER_KH_ID.216 i
+116 PAYER_KH_ID.217 i
+117 PAYER_KH_ID.218 i
+118 PAYER_KH_ID.219 i
+119 PAYER_KH_ID.22 i
+120 PAYER_KH_ID.220 i
+121 PAYER_KH_ID.221 i
+122 PAYER_KH_ID.222 i
+123 PAYER_KH_ID.224 i
+124 PAYER_KH_ID.225 i
+125 PAYER_KH_ID.226 i
+126 PAYER_KH_ID.228 i
+127 PAYER_KH_ID.229 i
+128 PAYER_KH_ID.23 i
+129 PAYER_KH_ID.231 i
+130 PAYER_KH_ID.233 i
+131 PAYER_KH_ID.234 i
+132 PAYER_KH_ID.235 i
+133 PAYER_KH_ID.236 i
+134 PAYER_KH_ID.238 i
+135 PAYER_KH_ID.239 i
+136 PAYER_KH_ID.24 i
+137 PAYER_KH_ID.240 i
+138 PAYER_KH_ID.241 i
+139 PAYER_KH_ID.242 i
+140 PAYER_KH_ID.243 i
+141 PAYER_KH_ID.244 i
+142 PAYER_KH_ID.245 i
+143 PAYER_KH_ID.246 i
+144 PAYER_KH_ID.247 i
+145 PAYER_KH_ID.248 i
+146 PAYER_KH_ID.249 i
+147 PAYER_KH_ID.25 i
+148 PAYER_KH_ID.250 i
+149 PAYER_KH_ID.251 i
+150 PAYER_KH_ID.252 i
+151 PAYER_KH_ID.253 i
+152 PAYER_KH_ID.255 i
+153 PAYER_KH_ID.257 i
+154 PAYER_KH_ID.259 i
+155 PAYER_KH_ID.26 i
+156 PAYER_KH_ID.260 i
+157 PAYER_KH_ID.261 i
+158 PAYER_KH_ID.262 i
+159 PAYER_KH_ID.264 i
+160 PAYER_KH_ID.265 i
+161 PAYER_KH_ID.266 i
+162 PAYER_KH_ID.267 i
+163 PAYER_KH_ID.268 i
+164 PAYER_KH_ID.269 i
+165 PAYER_KH_ID.27 i
+166 PAYER_KH_ID.271 i
+167 PAYER_KH_ID.272 i
+168 PAYER_KH_ID.273 i
+169 PAYER_KH_ID.274 i
+170 PAYER_KH_ID.275 i
+171 PAYER_KH_ID.276 i
+172 PAYER_KH_ID.277 i
+173 PAYER_KH_ID.278 i
+174 PAYER_KH_ID.279 i
+175 PAYER_KH_ID.28 i
+176 PAYER_KH_ID.281 i
+177 PAYER_KH_ID.284 i
+178 PAYER_KH_ID.285 i
+179 PAYER_KH_ID.287 i
+180 PAYER_KH_ID.288 i
+181 PAYER_KH_ID.289 i
+182 PAYER_KH_ID.29 i
+183 PAYER_KH_ID.290 i
+184 PAYER_KH_ID.291 i
+185 PAYER_KH_ID.292 i
+186 PAYER_KH_ID.293 i
+187 PAYER_KH_ID.294 i
+188 PAYER_KH_ID.295 i
+189 PAYER_KH_ID.296 i
+190 PAYER_KH_ID.297 i
+191 PAYER_KH_ID.298 i
+192 PAYER_KH_ID.299 i
+193 PAYER_KH_ID.300 i
+194 PAYER_KH_ID.301 i
+195 PAYER_KH_ID.302 i
+196 PAYER_KH_ID.304 i
+197 PAYER_KH_ID.305 i
+198 PAYER_KH_ID.306 i
+199 PAYER_KH_ID.307 i
+200 PAYER_KH_ID.308 i
+201 PAYER_KH_ID.309 i
+202 PAYER_KH_ID.31 i
+203 PAYER_KH_ID.310 i
+204 PAYER_KH_ID.311 i
+205 PAYER_KH_ID.312 i
+206 PAYER_KH_ID.313 i
+207 PAYER_KH_ID.314 i
+208 PAYER_KH_ID.315 i
+209 PAYER_KH_ID.316 i
+210 PAYER_KH_ID.317 i
+211 PAYER_KH_ID.318 i
+212 PAYER_KH_ID.32 i
+213 PAYER_KH_ID.320 i
+214 PAYER_KH_ID.321 i
+215 PAYER_KH_ID.322 i
+216 PAYER_KH_ID.323 i
+217 PAYER_KH_ID.324 i
+218 PAYER_KH_ID.325 i
+219 PAYER_KH_ID.326 i
+220 PAYER_KH_ID.327 i
+221 PAYER_KH_ID.328 i
+222 PAYER_KH_ID.33 i
+223 PAYER_KH_ID.331 i
+224 PAYER_KH_ID.332 i
+225 PAYER_KH_ID.333 i
+226 PAYER_KH_ID.335 i
+227 PAYER_KH_ID.336 i
+228 PAYER_KH_ID.338 i
+229 PAYER_KH_ID.339 i
+230 PAYER_KH_ID.34 i
+231 PAYER_KH_ID.340 i
+232 PAYER_KH_ID.341 i
+233 PAYER_KH_ID.342 i
+234 PAYER_KH_ID.343 i
+235 PAYER_KH_ID.345 i
+236 PAYER_KH_ID.346 i
+237 PAYER_KH_ID.347 i
+238 PAYER_KH_ID.348 i
+239 PAYER_KH_ID.349 i
+240 PAYER_KH_ID.35 i
+241 PAYER_KH_ID.351 i
+242 PAYER_KH_ID.352 i
+243 PAYER_KH_ID.353 i
+244 PAYER_KH_ID.354 i
+245 PAYER_KH_ID.356 i
+246 PAYER_KH_ID.357 i
+247 PAYER_KH_ID.358 i
+248 PAYER_KH_ID.359 i
+249 PAYER_KH_ID.37 i
+250 PAYER_KH_ID.38 i
+251 PAYER_KH_ID.4 i
+252 PAYER_KH_ID.40 i
+253 PAYER_KH_ID.42 i
+254 PAYER_KH_ID.43 i
+255 PAYER_KH_ID.44 i
+256 PAYER_KH_ID.45 i
+257 PAYER_KH_ID.46 i
+258 PAYER_KH_ID.47 i
+259 PAYER_KH_ID.48 i
+260 PAYER_KH_ID.49 i
+261 PAYER_KH_ID.5 i
+262 PAYER_KH_ID.50 i
+263 PAYER_KH_ID.51 i
+264 PAYER_KH_ID.52 i
+265 PAYER_KH_ID.53 i
+266 PAYER_KH_ID.54 i
+267 PAYER_KH_ID.55 i
+268 PAYER_KH_ID.56 i
+269 PAYER_KH_ID.57 i
+270 PAYER_KH_ID.58 i
+271 PAYER_KH_ID.59 i
+272 PAYER_KH_ID.6 i
+273 PAYER_KH_ID.60 i
+274 PAYER_KH_ID.61 i
+275 PAYER_KH_ID.62 i
+276 PAYER_KH_ID.63 i
+277 PAYER_KH_ID.64 i
+278 PAYER_KH_ID.65 i
+279 PAYER_KH_ID.66 i
+280 PAYER_KH_ID.67 i
+281 PAYER_KH_ID.68 i
+282 PAYER_KH_ID.69 i
+283 PAYER_KH_ID.7 i
+284 PAYER_KH_ID.70 i
+285 PAYER_KH_ID.71 i
+286 PAYER_KH_ID.72 i
+287 PAYER_KH_ID.73 i
+288 PAYER_KH_ID.75 i
+289 PAYER_KH_ID.76 i
+290 PAYER_KH_ID.77 i
+291 PAYER_KH_ID.78 i
+292 PAYER_KH_ID.79 i
+293 PAYER_KH_ID.8 i
+294 PAYER_KH_ID.80 i
+295 PAYER_KH_ID.81 i
+296 PAYER_KH_ID.82 i
+297 PAYER_KH_ID.83 i
+298 PAYER_KH_ID.84 i
+299 PAYER_KH_ID.85 i
+300 PAYER_KH_ID.87 i
+301 PAYER_KH_ID.88 i
+302 PAYER_KH_ID.9 i
+303 PAYER_KH_ID.90 i
+304 PAYER_KH_ID.91 i
+305 PAYER_KH_ID.92 i
+306 PAYER_KH_ID.93 i
+307 PAYER_KH_ID.94 i
+308 PAYER_KH_ID.95 i
+309 PAYER_KH_ID.96 i
+310 PAYER_KH_ID.97 i
+311 PAYER_KH_ID.missing(NA) i
+312 MODIFIER_1. i
+313 MODIFIER_1."1P" i
+314 MODIFIER_1."22" i
+315 MODIFIER_1."23" i
+316 MODIFIER_1."24" i
+317 MODIFIER_1."25" i
+318 MODIFIER_1."26" i
+319 MODIFIER_1."27" i
+320 MODIFIER_1."32" i
+321 MODIFIER_1."33" i
+322 MODIFIER_1."35" i
+323 MODIFIER_1."50" i
+324 MODIFIER_1."51" i
+325 MODIFIER_1."52" i
+326 MODIFIER_1."53" i
+327 MODIFIER_1."55" i
+328 MODIFIER_1."56" i
+329 MODIFIER_1."57" i
+330 MODIFIER_1."58" i
+331 MODIFIER_1."59" i
+332 MODIFIER_1."76" i
+333 MODIFIER_1."79" i
+334 MODIFIER_1."95" i
+335 MODIFIER_1."99" i
+336 MODIFIER_1."AF" i
+337 MODIFIER_1."AG" i
+338 MODIFIER_1."AL" i
+339 MODIFIER_1."AM" i
+340 MODIFIER_1."AP" i
+341 MODIFIER_1."AQ" i
+342 MODIFIER_1."AT" i
+343 MODIFIER_1."BU" i
+344 MODIFIER_1."CC" i
+345 MODIFIER_1."CG" i
+346 MODIFIER_1."CR" i
+347 MODIFIER_1."CS" i
+348 MODIFIER_1."EP" i
+349 MODIFIER_1."ET" i
+350 MODIFIER_1."FA" i
+351 MODIFIER_1."FP" i
+352 MODIFIER_1."GA" i
+353 MODIFIER_1."GB" i
+354 MODIFIER_1."GC" i
+355 MODIFIER_1."GE" i
+356 MODIFIER_1."GF" i
+357 MODIFIER_1."GN" i
+358 MODIFIER_1."GP" i
+359 MODIFIER_1."GQ" i
+360 MODIFIER_1."GR" i
+361 MODIFIER_1."GT" i
+362 MODIFIER_1."GV" i
+363 MODIFIER_1."GW" i
+364 MODIFIER_1."GY" i
+365 MODIFIER_1."GZ" i
+366 MODIFIER_1."H9" i
+367 MODIFIER_1."HA" i
+368 MODIFIER_1."HB" i
+369 MODIFIER_1."HD" i
+370 MODIFIER_1."HE" i
+371 MODIFIER_1."HF" i
+372 MODIFIER_1."HG" i
+373 MODIFIER_1."HI" i
+374 MODIFIER_1."HL" i
+375 MODIFIER_1."HN" i
+376 MODIFIER_1."HO" i
+377 MODIFIER_1."HP" i
+378 MODIFIER_1."HR" i
+379 MODIFIER_1."HW" i
+380 MODIFIER_1."KX" i
+381 MODIFIER_1."LT" i
+382 MODIFIER_1."NP" i
+383 MODIFIER_1."P2" i
+384 MODIFIER_1."PA" i
+385 MODIFIER_1."PD" i
+386 MODIFIER_1."PN" i
+387 MODIFIER_1."PO" i
+388 MODIFIER_1."Q1" i
+389 MODIFIER_1."Q2" i
+390 MODIFIER_1."Q5" i
+391 MODIFIER_1."Q6" i
+392 MODIFIER_1."Q8" i
+393 MODIFIER_1."QW" i
+394 MODIFIER_1."RT" i
+395 MODIFIER_1."SA" i
+396 MODIFIER_1."SB" i
+397 MODIFIER_1."SC" i
+398 MODIFIER_1."T6" i
+399 MODIFIER_1."TA" i
+400 MODIFIER_1."TC" i
+401 MODIFIER_1."TD" i
+402 MODIFIER_1."TG" i
+403 MODIFIER_1."TH" i
+404 MODIFIER_1."TJ" i
+405 MODIFIER_1."TS" i
+406 MODIFIER_1."U1" i
+407 MODIFIER_1."U2" i
+408 MODIFIER_1."U3" i
+409 MODIFIER_1."U4" i
+410 MODIFIER_1."U5" i
+411 MODIFIER_1."U6" i
+412 MODIFIER_1."U7" i
+413 MODIFIER_1."U8" i
+414 MODIFIER_1."U9" i
+415 MODIFIER_1."UA" i
+416 MODIFIER_1."UB" i
+417 MODIFIER_1."UC" i
+418 MODIFIER_1."UD" i
+419 MODIFIER_1."UF" i
+420 MODIFIER_1."UG" i
+421 MODIFIER_1."WI" i
+422 MODIFIER_1."X1" i
+423 MODIFIER_1."X2" i
+424 MODIFIER_1."X4" i
+425 MODIFIER_1."XE" i
+426 MODIFIER_1.missing(NA) i
+427 MODIFIER_2. i
+428 MODIFIER_2."22" i
+429 MODIFIER_2."24" i
+430 MODIFIER_2."25" i
+431 MODIFIER_2."27" i
+432 MODIFIER_2."33" i
+433 MODIFIER_2."51" i
+434 MODIFIER_2."52" i
+435 MODIFIER_2."57" i
+436 MODIFIER_2."59" i
+437 MODIFIER_2."76" i
+438 MODIFIER_2."79" i
+439 MODIFIER_2."95" i
+440 MODIFIER_2."AF" i
+441 MODIFIER_2."AG" i
+442 MODIFIER_2."AM" i
+443 MODIFIER_2."AQ" i
+444 MODIFIER_2."AT" i
+445 MODIFIER_2."CC" i
+446 MODIFIER_2."CG" i
+447 MODIFIER_2."CR" i
+448 MODIFIER_2."EP" i
+449 MODIFIER_2."FP" i
+450 MODIFIER_2."GA" i
+451 MODIFIER_2."GC" i
+452 MODIFIER_2."GE" i
+453 MODIFIER_2."GF" i
+454 MODIFIER_2."GR" i
+455 MODIFIER_2."GT" i
+456 MODIFIER_2."GV" i
+457 MODIFIER_2."GW" i
+458 MODIFIER_2."GY" i
+459 MODIFIER_2."H9" i
+460 MODIFIER_2."HA" i
+461 MODIFIER_2."HB" i
+462 MODIFIER_2."HD" i
+463 MODIFIER_2."HE" i
+464 MODIFIER_2."HF" i
+465 MODIFIER_2."HN" i
+466 MODIFIER_2."HP" i
+467 MODIFIER_2."HW" i
+468 MODIFIER_2."KX" i
+469 MODIFIER_2."LT" i
+470 MODIFIER_2."NP" i
+471 MODIFIER_2."PA" i
+472 MODIFIER_2."PD" i
+473 MODIFIER_2."PO" i
+474 MODIFIER_2."Q1" i
+475 MODIFIER_2."Q5" i
+476 MODIFIER_2."Q6" i
+477 MODIFIER_2."Q8" i
+478 MODIFIER_2."Q9" i
+479 MODIFIER_2."QW" i
+480 MODIFIER_2."RT" i
+481 MODIFIER_2."SA" i
+482 MODIFIER_2."SB" i
+483 MODIFIER_2."SE" i
+484 MODIFIER_2."TF" i
+485 MODIFIER_2."TH" i
+486 MODIFIER_2."TJ" i
+487 MODIFIER_2."TU" i
+488 MODIFIER_2."U1" i
+489 MODIFIER_2."U2" i
+490 MODIFIER_2."U3" i
+491 MODIFIER_2."U4" i
+492 MODIFIER_2."U6" i
+493 MODIFIER_2."U7" i
+494 MODIFIER_2."U9" i
+495 MODIFIER_2."UA" i
+496 MODIFIER_2."UB" i
+497 MODIFIER_2."UC" i
+498 MODIFIER_2."UD" i
+499 MODIFIER_2."WI" i
+500 MODIFIER_2."X1" i
+501 MODIFIER_2."X2" i
+502 MODIFIER_2.missing(NA) i
+503 PATIENT_STATE. i
+504 PATIENT_STATE.AK i
+505 PATIENT_STATE.AL i
+506 PATIENT_STATE.AR i
+507 PATIENT_STATE.AZ i
+508 PATIENT_STATE.CA i
+509 PATIENT_STATE.CO i
+510 PATIENT_STATE.CT i
+511 PATIENT_STATE.DC i
+512 PATIENT_STATE.DE i
+513 PATIENT_STATE.FL i
+514 PATIENT_STATE.GA i
+515 PATIENT_STATE.HI i
+516 PATIENT_STATE.IA i
+517 PATIENT_STATE.ID i
+518 PATIENT_STATE.IL i
+519 PATIENT_STATE.IN i
+520 PATIENT_STATE.KS i
+521 PATIENT_STATE.KY i
+522 PATIENT_STATE.LA i
+523 PATIENT_STATE.MA i
+524 PATIENT_STATE.MD i
+525 PATIENT_STATE.ME i
+526 PATIENT_STATE.MI i
+527 PATIENT_STATE.MN i
+528 PATIENT_STATE.MO i
+529 PATIENT_STATE.MS i
+530 PATIENT_STATE.MT i
+531 PATIENT_STATE.NC i
+532 PATIENT_STATE.ND i
+533 PATIENT_STATE.NE i
+534 PATIENT_STATE.NH i
+535 PATIENT_STATE.NJ i
+536 PATIENT_STATE.NM i
+537 PATIENT_STATE.NV i
+538 PATIENT_STATE.NY i
+539 PATIENT_STATE.OH i
+540 PATIENT_STATE.OK i
+541 PATIENT_STATE.OR i
+542 PATIENT_STATE.PA i
+543 PATIENT_STATE.PR i
+544 PATIENT_STATE.RI i
+545 PATIENT_STATE.SC i
+546 PATIENT_STATE.SD i
+547 PATIENT_STATE.TN i
+548 PATIENT_STATE.TX i
+549 PATIENT_STATE.UT i
+550 PATIENT_STATE.VA i
+551 PATIENT_STATE.VT i
+552 PATIENT_STATE.WA i
+553 PATIENT_STATE.WI i
+554 PATIENT_STATE.WV i
+555 PATIENT_STATE.WY i
+556 PATIENT_STATE.missing(NA) i
+557 PLACE_OF_SERVICE. i
+558 PLACE_OF_SERVICE."01" i
+559 PLACE_OF_SERVICE."02" i
+560 PLACE_OF_SERVICE."03" i
+561 PLACE_OF_SERVICE."07" i
+562 PLACE_OF_SERVICE."11" i
+563 PLACE_OF_SERVICE."12" i
+564 PLACE_OF_SERVICE."14" i
+565 PLACE_OF_SERVICE."15" i
+566 PLACE_OF_SERVICE."17" i
+567 PLACE_OF_SERVICE."19" i
+568 PLACE_OF_SERVICE."20" i
+569 PLACE_OF_SERVICE."21" i
+570 PLACE_OF_SERVICE."22" i
+571 PLACE_OF_SERVICE."23" i
+572 PLACE_OF_SERVICE."24" i
+573 PLACE_OF_SERVICE."26" i
+574 PLACE_OF_SERVICE."32" i
+575 PLACE_OF_SERVICE."49" i
+576 PLACE_OF_SERVICE."50" i
+577 PLACE_OF_SERVICE."52" i
+578 PLACE_OF_SERVICE."53" i
+579 PLACE_OF_SERVICE."57" i
+580 PLACE_OF_SERVICE."65" i
+581 PLACE_OF_SERVICE."71" i
+582 PLACE_OF_SERVICE."72" i
+583 PLACE_OF_SERVICE."81" i
+584 PLACE_OF_SERVICE."99" i
+585 PLACE_OF_SERVICE.missing(NA) i
+586 PAYER_CHANNEL. i
+587 PAYER_CHANNEL.Commercial i
+588 PAYER_CHANNEL.ManagedMedicaid i
+589 PAYER_CHANNEL.Medicaid i
+590 PAYER_CHANNEL.Medicare i
+591 PAYER_CHANNEL.MedicareAdvantage i
+592 PAYER_CHANNEL.TRICARE i
+593 PAYER_CHANNEL.VeteransAffairs i
+594 PAYER_CHANNEL.WorkersComp i
+595 PAYER_CHANNEL.missing(NA) i
+596 SOC. i
+597 SOC.AmbulanceVisit i
+598 SOC.EmergencyRoomVisit i
+599 SOC.HomeVisit i
+600 SOC.InpatientVisit i
+601 SOC.LaboratoryVisit i
+602 SOC.Non-hospitalinstitutionVisit i
+603 SOC.OutpatientVisit i
+604 SOC.PharmacyVisit i
+605 SOC.missing(NA) i
+606 CLAIM_TYPE_CODE.I i
+607 CLAIM_TYPE_CODE.P i
+608 CLAIM_TYPE_CODE.missing(NA) i
+609 UNITS int
+ˇ‘{binf   ?b                                                                                                                                      reg:squarederror       gbtree                                                                                                                                                                 /           b                                                                                                                                  ˇˇˇˇ      L Ä  Äµ   Ä      K Ä  Äµ            Ä  Äµ  Ä      : Ä  Äµ   	   
+    Ä  Äµ  Ä       Ä  Äµ         = Ä  Äµ  Ä      - Ä  Äµ         J Ä  Äµ  Ä       Ä  Äµ         !  Ä  Äµ  Ä       Ä  Äµ         ˙  Ä  Äµ  Äˇˇˇˇˇˇˇˇ    Ê≥?   ˇˇˇˇˇˇˇˇ    ®ø»?  Ä      Ë  Ä  Äµ         Ô  Ä  Äµ  Ä       M Ä  Äµ   ˇˇˇˇˇˇˇˇ    r%ú?	  Ä!   "   X  Ä  Äµ	   #   $   €  Ä  Äµ
+  Ä%   &   : Ä  Äµ
+   ˇˇˇˇˇˇˇˇ    jOÜ?  Ä'   (   Ò  Ä  Äµ   )   *   @ Ä  Äµ  Ä+   ,   8 Ä  Äµ   -   .   = Ä  Äµ  Äˇˇˇˇˇˇˇˇ    ˙ê?   ˇˇˇˇˇˇˇˇ    ≥∑"?  Äˇˇˇˇˇˇˇˇ    Ã•?   ˇˇˇˇˇˇˇˇ    ≤óR?  Äˇˇˇˇˇˇˇˇ    	Ñ?   ˇˇˇˇˇˇˇˇ    E±p?  Äˇˇˇˇˇˇˇˇ    ⁄øî?   ˇˇˇˇˇˇˇˇ    ûPü?  Äˇˇˇˇˇˇˇˇ    √º¶?   ˇˇˇˇˇˇˇˇ    ˛£å?  Äˇˇˇˇˇˇˇˇ    ÷¶?   ˇˇˇˇˇˇˇˇ    êàî?  Äˇˇˇˇˇˇˇˇ    tÖÑ?   ˇˇˇˇˇˇˇˇ    *±†?  Äˇˇˇˇˇˇˇˇ    Dpõ?   ˇˇˇˇˇˇˇˇ    m2¿?  Äˇˇˇˇˇˇˇˇ    ”àì?   ˇˇˇˇˇˇˇˇ    ÿÏ§?  Äˇˇˇˇˇˇˇˇ    Ûqú?   ˇˇˇˇˇˇˇˇ    ◊g™? Ï¨E –˝HÛåt@     ÄçD €ÿHùGw@     f˜DÄ‘ìGùàd@     8 DÄÑ¿Gc0q@     ‡^D‡π®H5y@     ¢ÛDÄëGBc@     ¨çA Ä∞D*Áó@     Ä—CÄ=∑Gd=r@     Ï+B pîE@c\@     ¿+D@¶H‹òx@      ∏B (≠EHYâ@     ò˝C ÀsGvè^@     ÿ#C h9FóÚz@         ÄùD_Íï@          CaJß@     p°CÄÛ±G∑|q@    Ä„C @)EeªÖ@     ¿A 0êE#([@          C4Ç@     Ä˙C`§HÒGx@     ¥§B vEŒ¥â@     ¿™@ ‡ßE™ ä@          )C∞Ÿ_@     D nGß]@     p£@ †∂D¢Ç@     UB Fù˘v@     `%B pECJÖ@        Ä∂±GÆ†q@          ÙBô@          E™èâ@          RCi~/@         0âE\@          `CπìH@        ¿±†HkÍw@         hŸE.√Ñ@         ÄhE¢Úä@          gC¶fj@         @§E≤kä@          ËBDéw@         "jGkﬁ\@          }D¯ËÖ@         ¿≥D8àÅ@          ∏A*†@         ®F
+‰u@         Ä¨C	pâ@         `·Dı^Ç@          D3é@       7           b                                                                                                                                  ˇˇˇˇ      L Ä  Äµ   Ä      : Ä  Äµ           Ä  Äµ  Ä      ^ Ä  Äµ   	   
+   ^ Ä  Äµ  Ä      ^ Ä  Äµ         ^ Ä  Äµ  Ä      7 Ä  Äµ           Ä  Äµ  Ä      -  Ä  Äµ         & Ä  Äµ  Ä      $ Ä  Äµ         a    @  Ä       Ä  Äµ         ›  Ä  Äµ  Ä        Ä  Äµ   !   "    Ä  Äµ  Ä#   $    Ä  Äµ   ˇˇˇˇˇˇˇˇ    @®)?	  Ä%   &   a    †A	   '   (    Ä  Äµ
+  Ä)   *   # Ä  Äµ
+   ˇˇˇˇˇˇˇˇ    ØEî?  Ä+   ,    Ä  Äµ   -   .   2 Ä  Äµ  Ä/   0    Ä  Äµ   1   2   °  Ä  Äµ  Ä3   4   7 Ä  Äµ   ˇˇˇˇˇˇˇˇ    Æ…?  Ä5   6   - Ä  Äµ   ˇˇˇˇˇˇˇˇ    Ìf?  Äˇˇˇˇˇˇˇˇ    Á¬P?   ˇˇˇˇˇˇˇˇ    êE?  Äˇˇˇˇˇˇˇˇ    _5?   ˇˇˇˇˇˇˇˇ    rnF?  Äˇˇˇˇˇˇˇˇ    Å‘i?   ˇˇˇˇˇˇˇˇ    1°?  Äˇˇˇˇˇˇˇˇ    ≥ñ7?   ˇˇˇˇˇˇˇˇ    √Ÿ??  Äˇˇˇˇˇˇˇˇ    úÖ3?   ˇˇˇˇˇˇˇˇ    ∆Ú>  Äˇˇˇˇˇˇˇˇ    ;ïm?   ˇˇˇˇˇˇˇˇ    xBø>  Äˇˇˇˇˇˇˇˇ    x<?   ˇˇˇˇˇˇˇˇ    ¡[?  Äˇˇˇˇˇˇˇˇ    €πG?   ˇˇˇˇˇˇˇˇ    ‰^'?  Äˇˇˇˇˇˇˇˇ    fá1?   ˇˇˇˇˇˇˇˇ    ;Pà?  Äˇˇˇˇˇˇˇˇ    SyÇ?   ˇˇˇˇˇˇˇˇ    ˚7?  Äˇˇˇˇˇˇˇˇ    fjL?   ˇˇˇˇˇˇˇˇ    ¡1?  Äˇˇˇˇˇˇˇˇ    ãw?   ˇˇˇˇˇˇˇˇ    π≠É? 0)E‡“˝H≈.+@      4D‡æÿHW-@     †WD PîG^  @     ÄDÄ∏—Hõë-@    Äı#D Ã`F7Ò@     åD ‡yGŒ	@     ºD  ;F”/@     ¿¿C`DœH
+M-@     RñB ùE˛'D@     |ØB LIFK=@     dFA  ºD≤G@     ∫C ‰kG¡˜@    ¿°=D ¿_EFÈ?@     ê€A »Fµó)@     ê¬A ‡ EÀ™M@     `œC‡bÕH§|-@     ∏îA ¿pEÿÙ@     JC àôE:`E@          ‡Bäa@     –∂A ËFF∆”@     ‰@  CûI—?     êÔ@ `∑DΩ∑E@          BÕw@     ®dC ó:Gaë@     u∂C 4EFå@     {0C †±DoX@     ~üB EÂW@     ãA ¥Fÿ‰)@          äBv•˘?      A@ ¿ΩD∏àR@          Döπ?@        ¿l¬H¿˜-@         bØF"Û$@         `NEO◊@         Ä	D	\%@         hîE¿€B@          $CíSÜ@         4Fï˝@         –RE"‡@           Aö@          CµO ?         ‡∂D[¸E@          Ä@bü?         ≈4Gd¬@         @∫DÀé6@         †$E6p&@         Fæy@         `°D’@          Cb0c@         ‡EﬂtY@          B¢≤ﬂ?         xF™X*@          OCŸ @         †ÇD7IN@         ÄÏCﬁv[@       7           b                                                                                                                                  ˇˇˇˇ      K Ä  Äµ   Ä      _ Ä  Äµ           Ä  Äµ  Ä      - Ä  Äµ   	   
+   ^  Ä  Äµ  Ä      √  Ä  Äµ         !  Ä  Äµ  Ä      8 Ä  Äµ         
+ Ä  Äµ  Ä       Ä  Äµ         : Ä  Äµ  Ä       Ä  Äµ         : Ä  Äµ  Ä      ã Ä  Äµ   ˇˇˇˇˇˇˇˇ    ∏À˛>  Ä      …  Ä  Äµ          ¸ Ä  Äµ  Ä!   "   ¸ Ä  Äµ   #   $   ^  Ä  Äµ	  Ä%   &   Ò  Ä  Äµ	   '   (   8 Ä  Äµ
+  Ä)   *   7 Ä  Äµ
+   +   ,   " Ä  Äµ  Ä-   .   ) Ä  Äµ   /   0   p  Ä  Äµ  Ä1   2   ¸ Ä  Äµ   3   4   a    @  Ä5   6   2 Ä  Äµ   ˇˇˇˇˇˇˇˇ    /¶1?  Äˇˇˇˇˇˇˇˇ    ëìG?   ˇˇˇˇˇˇˇˇ    &ä£>  Äˇˇˇˇˇˇˇˇ    ƒ¬*?   ˇˇˇˇˇˇˇˇ    0y6?  Äˇˇˇˇˇˇˇˇ    *Œ ?   ˇˇˇˇˇˇˇˇ    ë%„>  Äˇˇˇˇˇˇˇˇ    ñï◊>   ˇˇˇˇˇˇˇˇ    # !?  Äˇˇˇˇˇˇˇˇ    ˛ ?   ˇˇˇˇˇˇˇˇ    ÿ)?  Äˇˇˇˇˇˇˇˇ    ï?   ˇˇˇˇˇˇˇˇ    ôø(?  Äˇˇˇˇˇˇˇˇ    x?   ˇˇˇˇˇˇˇˇ    ÖÚ>  Äˇˇˇˇˇˇˇˇ    ˛› ?   ˇˇˇˇˇˇˇˇ    ô-±>  Äˇˇˇˇˇˇˇˇ    :%?   ˇˇˇˇˇˇˇˇ    z∞(?  Äˇˇˇˇˇˇˇˇ    Vd5?   ˇˇˇˇˇˇˇˇ    QË?  Äˇˇˇˇˇˇˇˇ    ≥øÍ>   ˇˇˇˇˇˇˇˇ    ó¥>  Äˇˇˇˇˇˇˇˇ    ¨zü>   ˇˇˇˇˇˇˇˇ    1Ïˇ>  Äˇˇˇˇˇˇˇˇ    â9?   ˇˇˇˇˇˇˇˇ    8*? ‘¬D¿ú˝Hâ∞Ô?      ÄD¿Ù)HÛÃÂ?     pﬁC`¢®H¨Ù?     çêC DFÔP@     p‡CÄp!Hä„?     @÷C@Ò•H~Ù?     x4B H¨E„p@     ‹ÙA PxE#@     pC `îE?˚?     ‰ÜCÄÑ⁄GäÈﬁ?     Ä§B πPG>9Ì?     †”C‡π§HºyÙ?     ÈôA ∞E˙æ?      Ö? ßEç@          (CnT‘?     ªÉA ÄD-¡$@     ÿiA ∞WE2∫@     ßC òÉE~Æ@     #hA @D»∫?     ÄhCÄÚ∫GP‹?     òyB ê|FiJÓ?     –¶B GGgYÓ?     4≈@ ¿Eë¯’?      ∆C‡££HíÙ?     êpA  E°-@     ‡A E€Œ¡?    ¿ÏÅ@  CNdé?     ‡6A (óEÿ«@          ˛C|
+@         @ DNP&@          AuHà?         †ÌD¯L@         ¿¡D®@          jE#@         ÄËC¯IΩ?         Ä˙CRß≥?          BrE@         ˙∏Gßß€?         @|D	Â@         ƒsF¯∏Ï?         ¿D™ü@         ÈBG~Ô?         ÄÑDÈ ?         ¿ER«÷?           Bˇ•ì?         X°H`ìÛ?         ¯íEì@          EÚ(@          xB€-‰?         ‡Eøü√?          ¬BSñ?          ¸B:ÊÑ?          `A”D’?         Ä†C9µ˝?          çEæ@       =           b                                                                                                                                  ˇˇˇˇ      K Ä  Äµ   Ä      ^ Ä  Äµ          9  Ä  Äµ  Ä      L Ä  Äµ   	   
+   a    ¿?  Ä       Ä  Äµ          Ä  Äµ  Ä      ˙ Ä  Äµ         8 Ä  Äµ  Ä      )  Ä  Äµ         8 Ä  Äµ  Ä      ^ Ä  Äµ         €  Ä  Äµ  Ä      	 Ä  Äµ         8 Ä  Äµ  Ä       2 Ä  Äµ   !   "   ^  Ä  Äµ  Ä#   $   : Ä  Äµ   %   &   ù  Ä  Äµ	  Ä'   (   ¸ Ä  Äµ	   )   *   * Ä  Äµ
+  Ä+   ,   2 Ä  Äµ
+   -   .   6  Ä  Äµ  Ä/   0   : Ä  Äµ   1   2     Ä  Äµ  Ä3   4   6 Ä  Äµ   5   6   : Ä  Äµ  Ä7   8    Ä  Äµ   9   :   : Ä  Äµ  Ä;   <   = Ä  Äµ   ˇˇˇˇˇˇˇˇ    C`¸>  Äˇˇˇˇˇˇˇˇ    „Ñ±>   ˇˇˇˇˇˇˇˇ    »>  Äˇˇˇˇˇˇˇˇ    €(à>   ˇˇˇˇˇˇˇˇ    ZØ>  Äˇˇˇˇˇˇˇˇ    W˙∂>   ˇˇˇˇˇˇˇˇ    ˘èë>  Äˇˇˇˇˇˇˇˇ    ‹°›>   ˇˇˇˇˇˇˇˇ    %I?  Äˇˇˇˇˇˇˇˇ    ˛›>   ˇˇˇˇˇˇˇˇ    ¥≈ñ>  Äˇˇˇˇˇˇˇˇ    µ°ï>   ˇˇˇˇˇˇˇˇ    ñ—ì=  Äˇˇˇˇˇˇˇˇ    f{?   ˇˇˇˇˇˇˇˇ    ◊Ä?  Äˇˇˇˇˇˇˇˇ    …óı>   ˇˇˇˇˇˇˇˇ    +•∞=  Äˇˇˇˇˇˇˇˇ    G4Œ>   ˇˇˇˇˇˇˇˇ    ∏$≠>  Äˇˇˇˇˇˇˇˇ    à˙ ?   ˇˇˇˇˇˇˇˇ    ,ú3>  Äˇˇˇˇˇˇˇˇ    u!?   ˇˇˇˇˇˇˇˇ    £Ò¶>  Äˇˇˇˇˇˇˇˇ    Éπ>   ˇˇˇˇˇˇˇˇ    ]˙2>  Äˇˇˇˇˇˇˇˇ    ‹∫>   ˇˇˇˇˇˇˇˇ    ¶¬÷>  Äˇˇˇˇˇˇˇˇ    }¢>   ˇˇˇˇˇˇˇˇ    ¬›à>  Äˇˇˇˇˇˇˇˇ    ˜ê~>   ˇˇˇˇˇˇˇˇ    Z_®> 4AD ˛H<Õß?     »ÒC@,*Hw◊†?     –ΩC‡˜®HYN´?     ,õC ≤!HQKü?     “ıB §FƒUæ?     h≥C Ì£H¨?    ¿ C \!FÕì?     »PC X∫G±§?     ‘≥C âG¿–ò?     ·ëB àòEV¡∞?     §sA ÄmE∫œ?     †≠C ¢HÜò´?     ¨9B psE§ƒ“?     ?B <FT-ö?    †üAB  ˘D∞ùj?     Ï/CÄ¬∂G–Â§?    ¿4¢A `ÂD”Gr?     FICÄ«ÇGâÕñ?    ÄB êHE·ø¬?     ¶~B 0èE∆¥?    –(pA ÄïCYèe?     MŸ@ ÄÎCY˘Ê?     pA PEé^Ã?     –∞C¿g†Hù-´?     aB 0OEîÍ‘?     TA eEXR÷?      ∂=  fCÔuô?     ú¬A »‹EN‚ù?     \ @ ¿ûDärÖ?    ¿Í¶A  ÓDtÕa?          ∞B7P“?         êFΩÓì?        Ä§Gó∫¶?         †ØD¬Ób?          ◊C†‰ë?         vwGH{ò?         êaEüör?         ,Eå±∏?          ›CIí @         ÑEd˛∏?          §CÅI{?         ÄÖCÿby?           BO]v>         ÄëC™Õ◊?          4C,˛?         ∞OE'©Ã?          ¿@N4ì>        `ëúH;÷´?         òıEDIê?          LE‚ˆ÷?          DBœ¨?         @bE¬7◊?          4B≤ã?          cCÌ+ö?          @@¯%?         †¬E∑õ?         @QDä˜≤?         ÄèD?há?          ÙBCd?          øDx#T?          ºCuOå?       7           b                                                                                                                                  ˇˇˇˇ      	 Ä  Äµ   Ä      $ Ä  Äµ          )  Ä  Äµ  Ä      M Ä  Äµ   	   
+   8 Ä  Äµ  Ä      @ Ä  Äµ         - Ä  Äµ  Ä      ^ Ä  Äµ         Ô  Ä  Äµ  Ä      K Ä  Äµ          Ä  Äµ  Ä      7 Ä  Äµ         …  Ä  Äµ  Ä      2 Ä  Äµ         K Ä  Äµ  Ä        Ä  Äµ   !   "   
+ Ä  Äµ  Ä#   $   ˙ Ä  Äµ   %   &   2 Ä  Äµ	  Ä'   (   Ò  Ä  Äµ	   )   *   ì Ä  Äµ
+  Ä+   ,   ^  Ä  Äµ
+   ˇˇˇˇˇˇˇˇ    ·öù=  Ä-   .   - Ä  Äµ   /   0   ^  Ä  Äµ  Äˇˇˇˇˇˇˇˇ    ‹ù>   ˇˇˇˇˇˇˇˇ    ≠Ë>  Ä1   2   ã Ä  Äµ   3   4   = Ä  Äµ  Ä5   6   ^ Ä  Äµ   ˇˇˇˇˇˇˇˇ    Aﬁeº  Äˇˇˇˇˇˇˇˇ    Ÿ©ê>   ˇˇˇˇˇˇˇˇ    í°Ä>  Äˇˇˇˇˇˇˇˇ    Q^¨>   ˇˇˇˇˇˇˇˇ    §`<>  Äˇˇˇˇˇˇˇˇ    ‰_y>   ˇˇˇˇˇˇˇˇ    à∂Ë=  Äˇˇˇˇˇˇˇˇ    .¬/=   ˇˇˇˇˇˇˇˇ    O5`>  Äˇˇˇˇˇˇˇˇ    'ÆV>   ˇˇˇˇˇˇˇˇ    ˙∂>  Äˇˇˇˇˇˇˇˇ    ÌÉÑ>   ˇˇˇˇˇˇˇˇ    Ì;˚<  Äˇˇˇˇˇˇˇˇ    ø˜À>   ˇˇˇˇˇˇˇˇ     Ñ>  Äˇˇˇˇˇˇˇˇ    x.m>   ˇˇˇˇˇˇˇˇ    Ú/ö>  Äˇˇˇˇˇˇˇˇ    EH>   ˇˇˇˇˇˇˇˇ    OO>  Äˇˇˇˇˇˇˇˇ    Ù–>   ˇˇˇˇˇˇˇˇ    ÜÎº=  Äˇˇˇˇˇˇˇˇ    √È8>   ˇˇˇˇˇˇˇˇ    úﬂ!>  Äˇˇˇˇˇˇˇˇ    •‚†=   ˇˇˇˇˇˇˇˇ    [= ŒC†Õ˝Hˆÿj?     2D`˜Hô	l?    ¿Ì¨B (WFî??     ¨ÖC¿÷”HZªo?    ÄEÖCÄˆåGπ”U?     Ò2B Ä:FâG?     JÔ@ @ÂD%0?     ‰ÑCÄ&—H¯sp?    †uñB ¨E~ò7?     rpCÄsäG¢πS?    ÄÍB ¿†Dñ∑§?     ⁄OA ¸8F”ùE?     ˛|?  ¬BR;∫?     mR@ @ﬁD
+?    h¯ö>  `B‰68>     `ÖC ÎÀH‰mo?     äC l'F˛)å?    Ä=C §E,4>?    ¿‘¿@  ÄC°u?>    ÄZPC ®áFhÇ9?     H»B QG˘9\?     úÏ@ ¿úD¡®?           BfVÉ>     >7A L5Fœ÷F?    Ä¿§?  lCÏ?          `A7‰Ç?          ¶BôÂ¡?     ˛d? ¿!DÊú˝>     Ù? `çD1∏?     √Á<  LB˘sO>          †@ãé?Ω        ¿øHq?         ∆ÃFûbV?         xFÓ£è?         @D3˚?         ¯âEËœO?         ¿PDqÌ¡>          nC&w>          êA◊:?         êÄFuÊ2?          cD{ò?         ePGﬂ€\?          .Cö\—=         ÄóD˘©?          (B \?         º1Fπ¶E?          dCI}Ä?          2C«Õ¯>          hBÏï,?         @Dv?          AÔnù>         @gD"?          NCÂ?          @A4Ü>          BÔä6>       5           b                                                                                                                                  ˇˇˇˇ      L Ä  Äµ   Ä      ¯ Ä  Äµ          $ Ä  Äµ  Ä      X  Ä  Äµ   	   
+   N Ä  Äµ  Ä      ^ Ä  Äµ         Ò  Ä  Äµ  Ä      î  Ä  Äµ         2 Ä  Äµ  Ä      J  Ä  Äµ   ˇˇˇˇˇˇˇˇ    ~Åâ>  Ä        Ä  Äµ         
+ Ä  Äµ  Ä      : Ä  Äµ         @ Ä  Äµ  Ä      ˇ  Ä  Äµ           Ä  Äµ  Ä!   "   7 Ä  Äµ   #   $   8 Ä  Äµ	  Äˇˇˇˇˇˇˇˇ    ]ﬂ>	   ˇˇˇˇˇˇˇˇ    bX¢>  Ä%   &     Ä  Äµ   '   (   2 Ä  Äµ  Ä)   *   ˚ Ä  Äµ   +   ,   ( Ä  Äµ  Ä-   .   2 Ä  Äµ   /   0   ô  Ä  Äµ  Ä1   2   Æ Ä  Äµ   3   4   S Ä  Äµ  Äˇˇˇˇˇˇˇˇ    *3E>   ˇˇˇˇˇˇˇˇ    ¸˛]>  Äˇˇˇˇˇˇˇˇ    ©ë¢>   ˇˇˇˇˇˇˇˇ    A1è>  Äˇˇˇˇˇˇˇˇ    f±S>   ˇˇˇˇˇˇˇˇ    ãg >  Äˇˇˇˇˇˇˇˇ    h^r>   ˇˇˇˇˇˇˇˇ    çbÇ>  Äˇˇˇˇˇˇˇˇ    3>   ˇˇˇˇˇˇˇˇ    ù8÷>  Äˇˇˇˇˇˇˇˇ    t'Ç>   ˇˇˇˇˇˇˇˇ    ƒö>  Äˇˇˇˇˇˇˇˇ    €#v>   ˇˇˇˇˇˇˇˇ    ﬁ	/Ω  Äˇˇˇˇˇˇˇˇ    ¢„>   ˇˇˇˇˇˇˇˇ    ¡eﬁ=  Äˇˇˇˇˇˇˇˇ    Ì«M>   ˇˇˇˇˇˇˇˇ    ∫-¯=  Äˇˇˇˇˇˇˇˇ    bf£<   ˇˇˇˇˇˇˇˇ    ÿΩ  Äˇˇˇˇˇˇˇˇ    SJÜ>   ˇˇˇˇˇˇˇˇ    >Ï˙<  Äˇˇˇˇˇˇˇˇ    »ò'>   ˇˇˇˇˇˇˇˇ    ?qç> L≤C‡˝HTé$?     àC „ÿH¸S'?    ÄØWCÄ7îGT?     8iC‡éÿHó'?    ÄUçA @(D\•?     +¸B VvGk|?    –P C dHF±Ï>     pLC¿’H∆T&?     8—@ à›E≈-U?    ÄPeA  DÎÆ?          “B'-e?     á÷B (aG¨˜?    ÄıhB p©E€??    †»ûB –8F˝,›>    ¿f$A @yDGAN?     ¨JC ‘H%Ò%?     ï@ PEgtu?     ?  rC‚ø)?     ‡3@ ¯’EQ∞V?         ÄÿC"‚π?          CßIá?     N–B ´^GpÀ?     @j= @D®Ñ?    ¿E≠B öEBH?    ¿&	@ ÄˆCÖ;◊>    Ä∆ﬂB î1FA§Â>    í`9@ ÄÁCõ$’<     @ Ä3D˘¿^?    Ÿ@ ÄãC⁄&#?        ¿å√HMU$?         G'ˇ8?         Ä‹Cbyá?         Ä”Dkßn?          IC*i0?          $Bû´?         ‡ìDV˘I?          ±EÍNY?         ^G_6?          CÇÑ≤?          ,BlÏX?         ÄDÆ¯Ä?         ñE·M?          ∆Bé›æ          LC±= ?         ÄêCÀTπ>         ‡ÌD{+?         ÿF≈–Œ>         Ä∑Cß*à=          ¿B^Ÿæ         Ä2D4—_?          Ä@3—=          UC¸©?          ÑBΩºk?       -           b                                                                                                                                  ˇˇˇˇ      8 Ä  Äµ   Ä      *  Ä  Äµ          y  Ä  Äµ  Ä       Ä  Äµ   	   
+   = Ä  Äµ  Ä      ∂  Ä  Äµ         = Ä  Äµ  Ä       Ä  Äµ         ç  Ä  Äµ  Ä      a    †A         a Ä  ∞@  Ä      Í  Ä  Äµ   ˇˇˇˇˇˇˇˇ    h¿  Ä      K Ä  Äµ   ˇˇˇˇˇˇˇˇ    ~òZ>  Ä      : Ä  Äµ         K Ä  Äµ  Ä       S  Ä  Äµ   !   "   ^ Ä  Äµ	  Äˇˇˇˇˇˇˇˇ    [ÏF>	   #   $   2 Ä  Äµ
+  Äˇˇˇˇˇˇˇˇ    H†G>
+   ˇˇˇˇˇˇˇˇ    –êü=  Ä%   &    Ä  Äµ   '   (   K Ä  Äµ  Ä)   *   L Ä  Äµ   +   ,    Ä  Äµ  Äˇˇˇˇˇˇˇˇ    >1>   ˇˇˇˇˇˇˇˇ    ∑j”=  Äˇˇˇˇˇˇˇˇ    v‘/>   ˇˇˇˇˇˇˇˇ    ‡ˆi>  Äˇˇˇˇˇˇˇˇ     Æ,>   ˇˇˇˇˇˇˇˇ    'v>  Äˇˇˇˇˇˇˇˇ    ÄX>   ˇˇˇˇˇˇˇˇ    jæ  Äˇˇˇˇˇˇˇˇ    ÿÛ/>   ˇˇˇˇˇˇˇˇ    ô,Å>  Äˇˇˇˇˇˇˇˇ    ‚?/>   ˇˇˇˇˇˇˇˇ    u6®>  Äˇˇˇˇˇˇˇˇ    üø   ˇˇˇˇˇˇˇˇ    ˜°æ  Äˇˇˇˇˇˇˇˇ    ≠`>   ˇˇˇˇˇˇˇˇ    ‰JÆ=  Äˇˇˇˇˇˇˇˇ    É ó>   ˇˇˇˇˇˇˇˇ    êææ> ¿ãC ¸˝Hì˘Â>     UCÄ˛ˆH˙„>    ‡=C ¥_F¨E?     œÑC ÛıHòJ„>     BŸ@ ∞EˆûB?    –:JD ¿WF~ö?     "é@ Ä˛Càªó?     ∞ZCÄPÚH®Ÿ·>     ÷ÆA ®ËEÃß!?     œ‘@ †“DƒTJ?     Ä´>  „Cãü%?    †ãC àWFÔ¢?          `A≠÷ÿ¿     îÉ@ ÄÚCNäö?          ¿Aæ)6?     í7C‡¬Hh¸‡>     8¿A –FE9⁄3?      ¿A HçE˚`?     cA ¿6Eü3?         ÄìCˆƒ%?    Ä§’@ ¿≠DC˜Q?          ·CÊZ&?          Ä@≠¯Ñ>     |EB WFN÷?    °)B  ÿA¥}‡ø    p–™>  ÄAâ$?     Ã+? ÄÍCX”ú?        †FÁHº¸‚>         ƒóFC.∞>          yDbÜ?         êEe¯B?         ‡|E˝Ê?         ÄÌCä M?          6E4?           AÑ[Ëæ          ‹Bâ†?          †DSJW?         DTFë
+?          6Ca-å?          †@èÑ¿          ∞Aî¯Üø          @AË:;?          Ä@h>ë>          BÖ´{?         ÄŸC"Ùû?       ?           b                                                                                                                                  ˇˇˇˇ      	 Ä  Äµ   Ä       Ä  Äµ          )  Ä  Äµ  Ä      K Ä  Äµ   	   
+   ã Ä  Äµ  Ä      @ Ä  Äµ         2 Ä  Äµ  Ä       Ä  Äµ          Ä  Äµ  Ä      U  Ä  Äµ         )  Ä  Äµ  Ä      a    †A         a    @  Ä      ^ Ä  Äµ         = Ä  Äµ  Ä       Ë  Ä  Äµ   !   "     Ä  Äµ  Ä#   $   ˇ  Ä  Äµ   %   &   : Ä  Äµ	  Ä'   (   2 Ä  Äµ	   )   *   8 Ä  Äµ
+  Ä+   ,   K Ä  Äµ
+   -   .   K Ä  Äµ  Ä/   0   ã Ä  Äµ   1   2   F Ä  Äµ  Ä3   4   ˇ  Ä  Äµ   5   6   8 Ä  Äµ  Ä7   8   F Ä  Äµ   9   :   8 Ä  Äµ  Ä;   <   K Ä  Äµ   =   >   K Ä  Äµ  Äˇˇˇˇˇˇˇˇ    ì„Ø=   ˇˇˇˇˇˇˇˇ    L◊æ  Äˇˇˇˇˇˇˇˇ    J”‡=   ˇˇˇˇˇˇˇˇ    øB=  Äˇˇˇˇˇˇˇˇ    ⁄√∆=   ˇˇˇˇˇˇˇˇ    à… >  Äˇˇˇˇˇˇˇˇ    /û&>   ˇˇˇˇˇˇˇˇ    AA=  Äˇˇˇˇˇˇˇˇ    °Ó=   ˇˇˇˇˇˇˇˇ    ?‹É=  Äˇˇˇˇˇˇˇˇ    O3à=   ˇˇˇˇˇˇˇˇ    ïNµ=  Äˇˇˇˇˇˇˇˇ    ?<   ˇˇˇˇˇˇˇˇ    B«-Ω  Äˇˇˇˇˇˇˇˇ    hàº   ˇˇˇˇˇˇˇˇ    \É!>  Äˇˇˇˇˇˇˇˇ    ù›Ü=   ˇˇˇˇˇˇˇˇ    ËÄﬂ;  Äˇˇˇˇˇˇˇˇ    ä“%=   ˇˇˇˇˇˇˇˇ    eÎ=  Äˇˇˇˇˇˇˇˇ    rá>   ˇˇˇˇˇˇˇˇ    ﬁ±A=  Äˇˇˇˇˇˇˇˇ    È®>>   ˇˇˇˇˇˇˇˇ    œ%Y=  Äˇˇˇˇˇˇˇˇ    ßü<   ˇˇˇˇˇˇˇˇ    I™=  Äˇˇˇˇˇˇˇˇ    MsΩ   ˇˇˇˇˇˇˇˇ    A∆©Ω  Äˇˇˇˇˇˇˇˇ    +ZÓ<   ˇˇˇˇˇˇˇˇ    ˇÌA=  Äˇˇˇˇˇˇˇˇ    ≥zD<   ˇˇˇˇˇˇˇˇ    ç0d= OC (˛H≤°>     _VC†c˜Hµ¢>     ∂„A åXF?áF>     T%C CÔH¶§>     ÏB 
+ÇFnS>     µ∂A X<Fí|X>    ÄÓ? †·D1ù=     8ŒBÄHQó>     3^C¿πüHrI´>    †ß¢A $zF"\>    ﬁmA  DE∂…º     ≈Í@ ‡:F&~T>    pxJ@  ºBsC3?    Kâb@ Ä)D[=    ¿ûâ> ‡åD#–=    ÄüBÄl	H[3í>    Ä+B 0≠Fª»∑>     mYC@ ùHƒë©>     W&A `¶E∫Ö	?    –`¢A ¥BF≈¸H>    Äo-@ ¿]E@xê>    Stá@  Du@_Ω    h?°?  B/?Ï>    ¿Tø@ ‘$Fü«]>    p‹≈? `∞DÎÛ>    Ñ'@  ÜB"lQ?    ¯4¢?  ÿAw<«>    2e~?   D™Y=     Mß=  BFƒÉæ    ‚? ¿gDfﬂﬁ=    ëé&?  HCn≤ä=        ÄK	H˙íí>          C)º˘æ         :®FΩZª>         ¿D=o˙=        †ÖêH5£•>         ™…F7•÷>          §E'Ÿ
+?          êB6Î >         @E„€=         d!Fhƒ[>          D. c>         Ä6E—ó>         ÄõCiΩÿ<         ÄêC∑–æ          Ä@&XcΩ           B"ò?         `"FØ∆`>          C¡@∫<         @≠Ds/
+>          »A‘„√>          tB"a?          ¿@éi!>          @A‚?          pA◊Ù4>         ÄÓCk_Ù<          #CŒˆ=          †@Ä€Ω          Bãzçæ         @;Dy†∆=          2C©õ!>          #Cïª#=          Bu(>>       9           b                                                                                                                                  ˇˇˇˇ      $ Ä  Äµ   Ä      
+ Ä  Äµ          8 Ä  Äµ  Ä      7 Ä  Äµ   	   
+   U  Ä  Äµ  Ä      L Ä  Äµ         P Ä  Äµ  Ä      ˘ Ä  Äµ         √  Ä  Äµ  Ä      8 Ä  Äµ         Ã Ä  Äµ  Ä      √  Ä  Äµ         Ò  Ä  Äµ  Ä      ù  Ä  Äµ         8 Ä  Äµ  Ä        Ä  Äµ   !   "   L Ä  Äµ  Ä#   $   U  Ä  Äµ   %   &   Â Ä  Äµ	  Ä'   (   ï  Ä  Äµ	   )   *   L Ä  Äµ
+  Ä+   ,   O Ä  Äµ
+   ˇˇˇˇˇˇˇˇ    Ïæ  Ä-   .   _ Ä  Äµ   /   0   a    @  Ä1   2      Ä  Äµ   3   4   @ Ä  Äµ  Ä5   6      Ä  Äµ   ˇˇˇˇˇˇˇˇ    ¶€+>  Äˇˇˇˇˇˇˇˇ    #'wΩ   7   8      Ä  Äµ  Äˇˇˇˇˇˇˇˇ    Q!ê=   ˇˇˇˇˇˇˇˇ    Ç˙H>  Äˇˇˇˇˇˇˇˇ    +÷<   ˇˇˇˇˇˇˇˇ    ∆´‘=  Äˇˇˇˇˇˇˇˇ    ‹™ ;   ˇˇˇˇˇˇˇˇ    Ûik=  Äˇˇˇˇˇˇˇˇ    j%æ   ˇˇˇˇˇˇˇˇ    -õú<  Äˇˇˇˇˇˇˇˇ    ==   ˇˇˇˇˇˇˇˇ    Uûuª  Äˇˇˇˇˇˇˇˇ    Ü =   ˇˇˇˇˇˇˇˇ    À¿>  Äˇˇˇˇˇˇˇˇ    ˘≈˚ª   ˇˇˇˇˇˇˇˇ    -A=  Äˇˇˇˇˇˇˇˇ    Ô¡3>   ˇˇˇˇˇˇˇˇ    I¿g=  Äˇˇˇˇˇˇˇˇ    §ºJΩ   ˇˇˇˇˇˇˇˇ    #ës=  Äˇˇˇˇˇˇˇˇ    ™w<   ˇˇˇˇˇˇˇˇ    ÿÙâ>  Äˇˇˇˇˇˇˇˇ    à>   ˇˇˇˇˇˇˇˇ    S}í=  Äˇˇˇˇˇˇˇˇ    ¡œÂ=   ˇˇˇˇˇˇˇˇ    Ω¬l>  Äˇˇˇˇˇˇˇˇ    T\Êº   ˇˇˇˇˇˇˇˇ    «◊7ºÄw4CÄŒ˝H4∫a>    Ä-@C`©⁄Hõ`i>    ¿€øBÄîåGı 2>     êCÄt’H¿∞l>    p†∞A ú&Fô√=    `8ÚB ˇâG->    ¿ª@ `•D∂†·>    Ä‡C@K”HC£n>    ˘ÿA PäEM*9=    ``Õ@ hFﬁ©Ê=    =F—? †©Dﬂ∏√º    ¿ºîB eG&5@>    WŸ©B ‡;F[√û=    Äé@  £Dì†Â>    Ñ≥ç=  êAà¢ÙΩ     D(C‡XœHŸ/q>    ®{ÓA ò¸Eûg—=    ›‚A páEÛh=    ÄÇ?  ∏Br˙æ    –,ﬁ@ ÑF¢î‹=    "å?A ÄúC>ØÅ>    ≤Àë? Ä®D!´º          AâÖ⁄æ    @¿ÇB ~bGGD>    å~h@  "Dªñæ    ˚±B .FPö\=    P®‡@ Ä\DGâ¿>    ¿ó÷@  ]D=H >         Ä“C
+7?          ¿@ÚıMæ    †’ﬁ;  @ALΩáΩ        @·ŒHá7p>         @oDl{'?         ‡ÌE£h≤=         ÄÎCœ9±>         PGE∑„<          èDü-D>          ≤B-ø          @@PÅÇ=         dFªÈ=          ‰CúÆLº          GC4à’=          ‰B©†?         @§D§œ—º          BŸ˙ >          —CGÃ?         ‹`G< A>          DàÚ(æ          ‡AÚ¯J>         d-F∏?N=          4BhÌe?         @Dáçﬁ>         ÄÑC4&t>         ¿QDvÇø>          4BÚLE?          †@õ˜øΩ          ‡@–3Ω       5           b                                                                                                                                  ˇˇˇˇ       Ä  Äµ   Ä      _ Ä  Äµ          K Ä  Äµ  Ä      U  Ä  Äµ   	   
+   : Ä  Äµ  Ä       Ä  Äµ         9  Ä  Äµ  Ä       Ä  Äµ          Ä  Äµ  Ä      ¯ Ä  Äµ         √  Ä  Äµ  Ä      2 Ä  Äµ         L Ä  Äµ  Ä      5 Ä  Äµ         : Ä  Äµ  Ä       ∏  Ä  Äµ   ˇˇˇˇˇˇˇˇ    V®ø  Ä!   "    Ä  Äµ   ˇˇˇˇˇˇˇˇ    K≠>	  Ä#   $    Ä  Äµ	   %   &   K Ä  Äµ
+  Ä'   (   -  Ä  Äµ
+   )   *   ¸ Ä  Äµ  Ä+   ,   L Ä  Äµ   -   .   L Ä  Äµ  Äˇˇˇˇˇˇˇˇ    BM>   ˇˇˇˇˇˇˇˇ    qø—=  Ä/   0   €  Ä  Äµ   1   2   8 Ä  Äµ  Ä3   4   8 Ä  Äµ   ˇˇˇˇˇˇˇˇ    µ¥©Ω  Äˇˇˇˇˇˇˇˇ    ]@ë=   ˇˇˇˇˇˇˇˇ    ìëà>  Äˇˇˇˇˇˇˇˇ    „hË=   ˇˇˇˇˇˇˇˇ    Z*¨>  Äˇˇˇˇˇˇˇˇ    ˇ~9=   ˇˇˇˇˇˇˇˇ    ·¡Ò=  Äˇˇˇˇˇˇˇˇ    ,—
+>   ˇˇˇˇˇˇˇˇ    ¶E_>  Äˇˇˇˇˇˇˇˇ    %˜ç<   ˇˇˇˇˇˇˇˇ    a∫æ  Äˇˇˇˇˇˇˇˇ    öVëΩ   ˇˇˇˇˇˇˇˇ    Óùæ  Äˇˇˇˇˇˇˇˇ    Ïã =   ˇˇˇˇˇˇˇˇ    œ“0Ω  Äˇˇˇˇˇˇˇˇ    N=   ˇˇˇˇˇˇˇˇ    úE¨=  Äˇˇˇˇˇˇˇˇ    ¸™ﬁ=   ˇˇˇˇˇˇˇˇ    °°≤<  Äˇˇˇˇˇˇˇˇ    ‘3>   ˇˇˇˇˇˇˇˇ    :‰â>  Äˇˇˇˇˇˇˇˇ    bA¨º   ˇˇˇˇˇˇˇˇ    ùE=@oC@Œ˝H‘W>    ÄEC‡Z˚H›ù>    †∑A ÿúEú,ß>     ˝vB L=FAXÜ>    @û.CÄpıH‰>    –,ƒ@ @ÇDí˘F>    `ÛΩA êxE·∏>    P C Ù.FÔ∂w>    àÌnB ÄeDv˛?     C‡wÌH=c>    0ˇœA F¸‹B=    Haú@  tD ,2>    ÿtƒ?  ÑB∫¨˘>    Äƒ)A ∞qEçø>    ƒ+=?  ‹BÓ ≈Ω    0¥dB ‡.Fs:z>          †@ùå¿    †kA  DD≠{œ>          CÈ>ê?    ÄÓC`%ÌH›Ω>    @;A  %D9≥?    -#B  {F◊πW=    –ç ? ÄÇC≥£áæ    ^I5@  Ca<    p2@ ÄNDQ>          ‡A·‚*?          B3 Æ>    PªéA @EØ∏´>    `‚qA ‡®DzS‰>    H~>  ∏B™loΩ          êAÏkçæ         ƒ,FÔr>          CIùc?         @=DΩ¨¡>          ÿA†xè?        †	ÏHî>         ‡EÊv…>          ÜCû\Á>          ƒC_:?         xxFÁõl=          "CL·„æ          jC ;ræ          ÿA·±¸æ          ¶BÔ…>          ÜBWZæ         @D6≠+>         ÄÑCWèè>         êE|éπ>          kC‹î=          †D`V◊>          åB∂—e?          ∞B—ãèΩ          Ä@≠<$>       3           b                                                                                                                                  ˇˇˇˇ      ˚ Ä  Äµ   Ä      Ô  Ä  Äµ          X Ä  Äµ  Ä      ¸ Ä  Äµ   	   
+   L Ä  Äµ  Ä      8 Ä  Äµ         L Ä  Äµ  Ä       Ä  Äµ         ï  Ä  Äµ  Ä      a    @         a    @  Ä      N Ä  Äµ         L Ä  Äµ  Äˇˇˇˇˇˇˇˇ    vtÜø   ˇˇˇˇˇˇˇˇ    ï°¿  Ä      8 Ä  Äµ         8 Ä  Äµ  Ä         Ä  Äµ   !   "   a    @	  Ä#   $   8 Ä  Äµ	   %   &   M Ä  Äµ
+  Ä'   (   2 Ä  Äµ
+   )   *   8 Ä  Äµ  Ä+   ,   ^ Ä  Äµ   -   .   ^ Ä  Äµ  Ä/   0   â  Ä  Äµ   1   2   = Ä  Äµ  Äˇˇˇˇˇˇˇˇ    ∏≥º<   ˇˇˇˇˇˇˇˇ    ñ⁄=  Äˇˇˇˇˇˇˇˇ    cê=   ˇˇˇˇˇˇˇˇ     å´<  Äˇˇˇˇˇˇˇˇ    K¥ñ=   ˇˇˇˇˇˇˇˇ    ]+æ  Äˇˇˇˇˇˇˇˇ    :‹Læ   ˇˇˇˇˇˇˇˇ    ö\>  Äˇˇˇˇˇˇˇˇ    #¨Dæ   ˇˇˇˇˇˇˇˇ    uΩì=  Äˇˇˇˇˇˇˇˇ    Üá>   ˇˇˇˇˇˇˇˇ    ∂À©Ω  Äˇˇˇˇˇˇˇˇ    Ñ_y>   ˇˇˇˇˇˇˇˇ    ø0ÓΩ  Äˇˇˇˇˇˇˇˇ    )=º=   ˇˇˇˇˇˇˇˇ    9”5>  Äˇˇˇˇˇˇˇˇ    lî;º   ˇˇˇˇˇˇˇˇ    ˆÂΩ  Äˇˇˇˇˇˇˇˇ    !ä<   ˇˇˇˇˇˇˇˇ    €/≤=  Äˇˇˇˇˇˇˇˇ    ¡Œa=   ˇˇˇˇˇˇˇˇ    ˝~>Ω  Äˇˇˇˇˇˇˇˇ    ®⁄>   ˇˇˇˇˇˇˇˇ    M¬9>ÄãC@„˝H±›=     C‡`˘H4‚=    ~õ¥C LFoy^º    †C¿˘H¨K„=    ËFB @D5iŒæ    §&uB (FÌìÁª    Ä‡+@  Apß¿¿    ¿ÍB  ÒHS≠‹=    ∂•ŒC ÏÅF=⁄S>    (/QA ÄÈC{Ωø    ⁄Êá@  xB#œ‹>    >ÑsA àF…œ◊º    ºÄ®A  ÙC7∆¨>          Ä@n`¿          †@¯∑„¿    @≥¯B`8ÌHÒ±ÿ=    ÄØΩ@ ËÒEPCk>    ài‹B ‰zF4\r>    0í”A @D/ ø    ¿Q¸@ Ä¨C&3ø    NjÄ@  ÙB'4læ    f‚Ü@  PAÎ’îΩ    @9>  DB™Q?    ∏sA ËÂEÿ¯5Ω    ª>Ö@ †¨D±Aè=    ZËó@  DCt™=    ÄÔ;?  íCdŸ?        Ä ›Gn@ù=        @µH§¡Í=         ÿÍE•-p>          bC≈Ùé=         8xF},{>          +CMHø         Ä
+DÖ∑*ø          òAÄ"?         ÄßC«‰#ø           A√;v>          ‡@ﬁ·Î>          ÊBçæ          @@òœO?           AÙ}∆æ          ¿@¢›ú>          ,BZÖ?         ®·EQΩ          Cø¢øæ         †¢D7f=          †B6}î>          
+CK,<>          hB(øæ          ZCllÒ>          îBïÃ?       7           b                                                                                                                                  ˇˇˇˇ      √  Ä  Äµ   Ä       Ä  Äµ          K Ä  Äµ  Ä      	 Ä  Äµ   	   
+   K Ä  Äµ  Ä      ^ Ä  Äµ         ò Ä  Äµ  Ä      -  Ä  Äµ         )  Ä  Äµ  Ä      N Ä  Äµ         2 Ä  Äµ  Ä      7 Ä  Äµ          Ä  Äµ  Ä      ¸ Ä  Äµ   ˇˇˇˇˇˇˇˇ    P√,=  Ä      ·  Ä  Äµ           Ä  Äµ  Ä!   "   @ Ä  Äµ   #   $   ^ Ä  Äµ	  Ä%   &   O Ä  Äµ	   '   (   2 Ä  Äµ
+  Ä)   *   Y Ä  Äµ
+   +   ,   = Ä  Äµ  Ä-   .   ¸ Ä  Äµ   /   0   Â Ä  Äµ  Ä1   2   L Ä  Äµ   ˇˇˇˇˇˇˇˇ    õæ  Ä3   4   Í Ä  Äµ   5   6   : Ä  Äµ  Äˇˇˇˇˇˇˇˇ    √È»<   ˇˇˇˇˇˇˇˇ    %b◊=  Äˇˇˇˇˇˇˇˇ    9„IΩ   ˇˇˇˇˇˇˇˇ    µ,7>  Äˇˇˇˇˇˇˇˇ    ˝çπ   ˇˇˇˇˇˇˇˇ    êÉ⁄=  Äˇˇˇˇˇˇˇˇ    ∂Ëº   ˇˇˇˇˇˇˇˇ    ﬂ£œΩ  Äˇˇˇˇˇˇˇˇ    âb¬<   ˇˇˇˇˇˇˇˇ    ï‹;  Äˇˇˇˇˇˇˇˇ    ﬂ∂+º   ˇˇˇˇˇˇˇˇ    Ï‹ø∫  Äˇˇˇˇˇˇˇˇ    ∫Y;   ˇˇˇˇˇˇˇˇ    Q‡ﬂ=  Äˇˇˇˇˇˇˇˇ    <˘ïº   ˇˇˇˇˇˇˇˇ    ¥IΩ  Äˇˇˇˇˇˇˇˇ    Gïâ:   ˇˇˇˇˇˇˇˇ    ò˘Ω  Äˇˇˇˇˇˇˇˇ    Ωæ   ˇˇˇˇˇˇˇˇ    π)<  Äˇˇˇˇˇˇˇˇ    ˛,\Ω   ˇˇˇˇˇˇˇˇ    èç˝=  Äˇˇˇˇˇˇˇˇ    ÎçFΩ   ˇˇˇˇˇˇˇˇ     Ú(=  Äˇˇˇˇˇˇˇˇ    ”´˘Ω   ˇˇˇˇˇˇˇˇ    ö°∫ /¸B†˛HsÀö=    @∆„B‡‹˚HQÀù=    ∫¶A ∞éEÑ∏Ω    ÄµÍB†Å˜H‡‘°=    ÖÛjA hFO&Ω    ô}A ¿˝D@mº    LÔAA ÄE9ƒæ    Ä–ÁBÄøHwß=    ﬂáA DXF<Aº    óÜ$@ Ä<Eóª≤<    (⁄7@ ê∏EÒÇΩ    1'1A @ÙDj€›º    âÄä@  òB}™ú>     1¢@ Edè*æ          C¯>    `’B æÔH©=    †1dA ∞ Eüﬁæ    û¥AA @;Fc ;    ("@  ËD‘ÕΩ    »9ˆ? †¬DM=    `w	> `∂Dj©º    ﬂ˜ ? ÄÁCÕ?<    H]@ ™EÁêΩ    ªΩ6A ‡ÍDØ¢Cº    –éN?  ñBytÕæ    ¿≥æ?  åB Ó¿>          ¿@WàÈæ    †‘N@ –Eàú æ     ÂF?  »Büœ≈æ        `ÔHwmß=         ¿∏Dt|≥>         `˛DZ=(æ          ¿AA•?         ƒ9FOk∫          æBM∂>         ¿‚DÌ¡Ω          ,Bè≠æ         @gD«¸°=          D£oˆ;          'CdΩ         Ä°Dƒ‚üª         ÄÂCäïˇ;          Ä@Cê∫>         `éE∏ÙyΩ         ¿]DÄ%ÚΩ          ‚D Ne;          åB˛åœæ          éB√ÂŸæ          Ä@3Ï<          Ä@”z7æ          ÑBLK”>         êECv%æ          BS >          æB/–æ          †@ ∏ﬁ∫       )           b                                                                                                                                  ˇˇˇˇ      8 Ä  Äµ   Ä       Ä  Äµ          ∂  Ä  Äµ  Ä       Ä  Äµ   	   
+   ^  Ä  Äµ  Ä      A  Ä  Äµ   ˇˇˇˇˇˇˇˇ    ]3Ÿø  Ä       Ä  Äµ         a    @  Ä      á  Ä  Äµ         - Ä  Äµ  Ä      y  Ä  Äµ   ˇˇˇˇˇˇˇˇ    ml¨Ω  Ä      ^ Ä  Äµ         - Ä  Äµ  Ä      7 Ä  Äµ         8 Ä  Äµ	  Ä       p  Ä  Äµ	   ˇˇˇˇˇˇˇˇ    Ÿ	Ω
+  Ä!   "   2 Ä  Äµ
+   #   $   N Ä  Äµ  Ä%   &   Í  Ä  Äµ   '   (   8 Ä  Äµ  Äˇˇˇˇˇˇˇˇ    *Jc<   ˇˇˇˇˇˇˇˇ    ∫!=  Äˇˇˇˇˇˇˇˇ    ≠<=   ˇˇˇˇˇˇˇˇ    )Ûº  Äˇˇˇˇˇˇˇˇ    ÑØæΩ   ˇˇˇˇˇˇˇˇ    T#Ñæ  Äˇˇˇˇˇˇˇˇ    [*?=   ˇˇˇˇˇˇˇˇ    Ö„Ω<  Äˇˇˇˇˇˇˇˇ    †™•=   ˇˇˇˇˇˇˇˇ    Â»“º  Äˇˇˇˇˇˇˇˇ    J™Ûº   ˇˇˇˇˇˇˇˇ    ◊ﬂOª  Äˇˇˇˇˇˇˇˇ    ‡…O=   ˇˇˇˇˇˇˇˇ    O¸=  Äˇˇˇˇˇˇˇˇ    ‚ñ3=   ˇˇˇˇˇˇˇˇ    …œÙæ  Äˇˇˇˇˇˇˇˇ    wà=   ˇˇˇˇˇˇˇˇ    Ò≥1>¿HÃB ˚˝H“X=    @;ƒB`˜H^PO=    ¨ÎC T^F#Ã>    @ıøB@ÖıH÷J=    ®9ëA êAEmÅi>    <œ∫B  ^F¸†>          PA" µ¿    Ä¯¨B¿$ıHhM=    ‡è÷@  ADÏöæ    Ä´s@ 'EYÑ>    Óı◊@  ÕC^‹=    ¯ı®B DVFà!>         Ä˚C∞Øèæ    †⁄™B`ÁHjÏE=    êòA ¨Fâë>    Ä^ù@ ¿7D∑ü•æ    ÿ[7=  BLµ·=     ﬁÍ@ @&EÜ>          ÿA0øÂΩ    
+"∫= Ä∂COH]º     ~ﬁ=  4BÏ+…>    å£B úNF>    ¿@  ıCc™?        ¿	ÎHxh==         ¥;Fæ≈>         |FêΩ>          CÚ¢ Ω         ¿3DòÁûæ          ÄA‡:\ø          `AˆM>          ∏Aô=û=         ê"E0ä>          lBißØΩ          0AËÀΩ          ±Cà:-º          Ä@:(->          $B“>         4NFg®>          –A|Ãø          òAp›b>         ÄÎCÛ?       5           b                                                                                                                                  ˇˇˇˇ       Ä  Äµ   Ä      M Ä  Äµ          a    @  Ä      *  Ä  Äµ   	   
+   7  Ä  Äµ  Ä      K Ä  Äµ         2 Ä  Äµ  Ä      ¿  Ä  Äµ         a    †A  Ä       Ä  Äµ   ˇˇˇˇˇˇˇˇ    KÆÕΩ  Ä      8 Ä  Äµ         B Ä  Äµ  Ä      : Ä  Äµ         K Ä  Äµ  Ä       Ä  Äµ          : Ä  Äµ  Ä!   "   8 Ä  Äµ   #   $   2 Ä  Äµ	  Ä%   &   ˝ Ä  Äµ	   '   (   8 Ä  Äµ  Ä)   *    Ä  Äµ   +   ,    Ä  Äµ  Ä-   .    Ä  Äµ   ˇˇˇˇˇˇˇˇ    Ñº  Äˇˇˇˇˇˇˇˇ    "P>   /   0   K Ä  Äµ  Ä1   2    Ä  Äµ   3   4   = Ä  Äµ  Äˇˇˇˇˇˇˇˇ    Øª=<   ˇˇˇˇˇˇˇˇ    J‹MΩ  Äˇˇˇˇˇˇˇˇ    ∫Ì=   ˇˇˇˇˇˇˇˇ    ü¿íΩ  Äˇˇˇˇˇˇˇˇ    «ﬁ9=   ˇˇˇˇˇˇˇˇ    ;›=  Äˇˇˇˇˇˇˇˇ    ∏ÿ!=   ˇˇˇˇˇˇˇˇ    ÄÆ=  Äˇˇˇˇˇˇˇˇ    Õ3Ùº   ˇˇˇˇˇˇˇˇ    ùNI=  Äˇˇˇˇˇˇˇˇ    ÿ„]=   ˇˇˇˇˇˇˇˇ    Ïìﬁª  Äˇˇˇˇˇˇˇˇ    –¥ûΩ   ˇˇˇˇˇˇˇˇ    -™Ω  Äˇˇˇˇˇˇˇˇ    Í$æ   ˇˇˇˇˇˇˇˇ    ‚∆Ω  Äˇˇˇˇˇˇˇˇ    ‹æ   ˇˇˇˇˇˇˇˇ    õ+4æ  Äˇˇˇˇˇˇˇˇ    qÃ˙ª   ˇˇˇˇˇˇˇˇ    §ƒ©∫  Äˇˇˇˇˇˇˇˇ    ¥Ü±;   ˇˇˇˇˇˇˇˇ    ºc'Ω  Äˇˇˇˇˇˇˇˇ    grÂ;   ˇˇˇˇˇˇˇˇ    Û!Ê<à »B†˛H5=    ∆»B¿z˝H≠∏=     ±ƒ@ ‡êDXtÉæ    ∞QøB`Ω˙HÙ¨ =    4`iB XØE[√Ω    pí´@ ‡ÑDP¶éæ    ¨ä6?  ¿B\åiº    –ÁæB†∞˘H´=    Ä$å@ `E√©>    f5ÿA xîEËKTΩ          WDìf´æ    6%@ ¿oD,jÇæ    ò…$@  –B='˝æ    ·¿Y?  PAµâG>    ~ô	?  ¶BÕrHΩ     	∞BÄ=˘Hπ´=    "gA @fDF9∏>     ∏> ÄÕCR>    @R2@ `ŸDKã>    Æ;≠A @ÑEyA†Ω    êÍ’? ¿DA'>    8@  UDpqæ    ÄˆQ>  ÷B"…Õæ     >  ∏BK¸ø          @A-\Ω          †@çÖı>    Dùe:   Ar¬áº    9í=  ,BßL æ    ˛‹∆<   BÍ=        †9¯Hg=         EËå+æ         ¿\D≈â≈>          B^ñtæ         Ä…CP‰>           AÂ[∏>          CDﬂ>         †»Dë>         PsEÄÄÀΩ         Ä©CÇ¡'>         ÄÌCâË8>          0BD{πº          2DXAÑæ          CüˆΩ          ÜB0Ë‚æ           Bnº•æ          ¿A&‹æ          àBV$ø          Ä@≥ˇ–º          Ä@3yçª          @@@ì<           B«}æ          B´4ø<          †@ı∆ø=       =           b                                                                                                                                  ˇˇˇˇ       Ä  Äµ   Ä      
+ Ä  Äµ          ^  Ä  Äµ  Ä      9  Ä  Äµ   	   
+   N Ä  Äµ  Ä      L Ä  Äµ         L Ä  Äµ  Ä       Ä  Äµ          Ä  Äµ  Ä      : Ä  Äµ         - Ä  Äµ  Ä      O Ä  Äµ         ? Ä  Äµ  Ä      ^ Ä  Äµ         2 Ä  Äµ  Ä       # Ä  Äµ   !   "   -  Ä  Äµ  Ä#   $   2 Ä  Äµ   %   &   8 Ä  Äµ	  Ä'   (   m  Ä  Äµ	   )   *   _ Ä  Äµ
+  Ä+   ,   2 Ä  Äµ
+   -   .   ´ Ä  Äµ  Ä/   0   ,  Ä  Äµ   1   2   )  Ä  Äµ  Ä3   4   ï  Ä  Äµ   5   6   a    @  Ä7   8   2 Ä  Äµ   9   :   8 Ä  Äµ  Ä;   <   _ Ä  Äµ   ˇˇˇˇˇˇˇˇ    ~Ä†=  Äˇˇˇˇˇˇˇˇ    ˘<<   ˇˇˇˇˇˇˇˇ    ÓüYº  Äˇˇˇˇˇˇˇˇ    ìˇª   ˇˇˇˇˇˇˇˇ    cΩ  Äˇˇˇˇˇˇˇˇ    }à‰º   ˇˇˇˇˇˇˇˇ    Üü€:  Äˇˇˇˇˇˇˇˇ    ØïêΩ   ˇˇˇˇˇˇˇˇ    ã¢§=  Äˇˇˇˇˇˇˇˇ    ïI¯º   ˇˇˇˇˇˇˇˇ    *˚sº  Äˇˇˇˇˇˇˇˇ    O
+ø   ˇˇˇˇˇˇˇˇ    #◊f<  Äˇˇˇˇˇˇˇˇ    ˙€-Ω   ˇˇˇˇˇˇˇˇ    B‘∫  Äˇˇˇˇˇˇˇˇ    Ê|J>   ˇˇˇˇˇˇˇˇ    z¸Ñ=  Äˇˇˇˇˇˇˇˇ    •Fº   ˇˇˇˇˇˇˇˇ    V1,Ω  Äˇˇˇˇˇˇˇˇ    ºÅ≠<   ˇˇˇˇˇˇˇˇ    œ@rº  Äˇˇˇˇˇˇˇˇ    ,¯LΩ   ˇˇˇˇˇˇˇˇ    ã5√=  Äˇˇˇˇˇˇˇˇ    ﬂsÊ=   ˇˇˇˇˇˇˇˇ    π˘<  Äˇˇˇˇˇˇˇˇ    k1º   ˇˇˇˇˇˇˇˇ    2e<  Äˇˇˇˇˇˇˇˇ    ‡,Ω   ˇˇˇˇˇˇˇˇ    hz=  Äˇˇˇˇˇˇˇˇ    ¬Å=   ˇˇˇˇˇˇˇˇ    3õé<$
+⁄B†
+˛H'M◊<    ‘tπB  ıHÎÌ<    í'ÍA ™éFî8KΩ    ÏñŒB†ÒÔHpG˛<    Ë∆ú@ Ã%FﬁÌÅΩ    L¥B tyFK¥ÑΩ    ål@ ÄEÍe=    ê6æBÄÈHv[	=    Ω·B ƒ\F ZΩ    ËÚ≥@ îFÆØìΩ    î÷>@ ¿πDË&º    ‚jA –@F‹T%Ω    ê≥A êbE{|æ    ‰Å? `	Eﬁ&B=    ‡õ>  ƒBô‚z>     í®B +·H˛+=    ˙gB |FC∆+Ω    ~Ë%A L+F–Ë©ª    H€√A ‡EE«`æ    ≥≤@ F)v†Ω    ¢A ÄDˆ,⁄<    ÷O	@ @µD2ıçº    »\!?  BRä>    õûA ∏*FŸ'XΩ    º§@ ¿∞DNCc=     ¡8A `]E®⁄#æ    @Äc>  ¶B˘¸π>    ¿ﬁ> †E13=    >6?  pB˙„2>    æç=  PAÁ·>          ™Bi¿Ö>         ¸⁄H-z=         ‡EFõZ5Ω         ¥bFOã‘º         ‡ Dâ:=æ         †ïDΩqæΩ         òFÔ∑;         ∞?Ex˘pæ          ∆B2â>         –ïE¸ÁŒΩ         –lEMQKΩ          †@¨ÉÊø         @DÚ]@=          ¸B˚·æ         Ä•D·r±ª          @@jΩ(?          BÀ§]>         	F4Ω          Er~æ         ÄöD«ñê=          2C¨‡IΩ         PZEœŒ*æ          DBû¨¢>          ûB9¿>          Ä@öôœ=          §B±ßﬂº         Ä E‘ÿ>=          †@uı˚Ω          \BV\P>          †@pCX>           AU≠m=                                                                       	       objectiveE       {"name":"reg:squarederror","reg_loss_param":{"scale_pos_weight":"1"}}è5"_b58507be7da876a16082f4fafdc74f0b                  PAYER_KH_IDMODIFIER_1MODIFIER_2PATIENT_STATEPLACE_OF_SERVICEPAYER_CHANNELSOCCLAIM_TYPE_CODEUNITSLOG_ALLOWED_AMOUNT 5,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ	   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ
+   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a515,ˇ   ˇˇˇˇ_9982b692879240bac846609b54ce4a51ˇˇˇˇˇˇˇˇ           
+    8  ´  ˜  -  J  T  ^  a  		7  r   K   5      	   	      ¡ P€ ‹?                                  ˝söåeÊ?¡ P€ ‹?  ¡ P€ ‹?      a  b    	ˇbPAYER_KH_ID.PAYER_KH_ID.1PAYER_KH_ID.10PAYER_KH_ID.100PAYER_KH_ID.101PAYER_KH_ID.102PAYER_KH_ID.103PAYER_KH_ID.104PAYER_KH_ID.106PAYER_KH_ID.107PAYER_KH_ID.108PAYER_KH_ID.109PAYER_KH_ID.11PAYER_KH_ID.110PAYER_KH_ID.111PAYER_KH_ID.112PAYER_KH_ID.113PAYER_KH_ID.115PAYER_KH_ID.117PAYER_KH_ID.118PAYER_KH_ID.119PAYER_KH_ID.12PAYER_KH_ID.120PAYER_KH_ID.121PAYER_KH_ID.122PAYER_KH_ID.123PAYER_KH_ID.124PAYER_KH_ID.125PAYER_KH_ID.126PAYER_KH_ID.127PAYER_KH_ID.129PAYER_KH_ID.13PAYER_KH_ID.130PAYER_KH_ID.131PAYER_KH_ID.132PAYER_KH_ID.134PAYER_KH_ID.135PAYER_KH_ID.136PAYER_KH_ID.137PAYER_KH_ID.138PAYER_KH_ID.139PAYER_KH_ID.14PAYER_KH_ID.140PAYER_KH_ID.141PAYER_KH_ID.143PAYER_KH_ID.144PAYER_KH_ID.145PAYER_KH_ID.147PAYER_KH_ID.148PAYER_KH_ID.149PAYER_KH_ID.15PAYER_KH_ID.150PAYER_KH_ID.151PAYER_KH_ID.152PAYER_KH_ID.153PAYER_KH_ID.154PAYER_KH_ID.155PAYER_KH_ID.157PAYER_KH_ID.158PAYER_KH_ID.159PAYER_KH_ID.16PAYER_KH_ID.160PAYER_KH_ID.161PAYER_KH_ID.162PAYER_KH_ID.163PAYER_KH_ID.164PAYER_KH_ID.165PAYER_KH_ID.166PAYER_KH_ID.168PAYER_KH_ID.169PAYER_KH_ID.17PAYER_KH_ID.170PAYER_KH_ID.172PAYER_KH_ID.174PAYER_KH_ID.175PAYER_KH_ID.176PAYER_KH_ID.177PAYER_KH_ID.179PAYER_KH_ID.18PAYER_KH_ID.180PAYER_KH_ID.181PAYER_KH_ID.182PAYER_KH_ID.183PAYER_KH_ID.184PAYER_KH_ID.185PAYER_KH_ID.186PAYER_KH_ID.187PAYER_KH_ID.188PAYER_KH_ID.189PAYER_KH_ID.19PAYER_KH_ID.190PAYER_KH_ID.191PAYER_KH_ID.192PAYER_KH_ID.193PAYER_KH_ID.195PAYER_KH_ID.196PAYER_KH_ID.197PAYER_KH_ID.198PAYER_KH_ID.199PAYER_KH_ID.2PAYER_KH_ID.20PAYER_KH_ID.200PAYER_KH_ID.201PAYER_KH_ID.202PAYER_KH_ID.204PAYER_KH_ID.206PAYER_KH_ID.207PAYER_KH_ID.208PAYER_KH_ID.209PAYER_KH_ID.21PAYER_KH_ID.210PAYER_KH_ID.212PAYER_KH_ID.213PAYER_KH_ID.214PAYER_KH_ID.215PAYER_KH_ID.216PAYER_KH_ID.217PAYER_KH_ID.218PAYER_KH_ID.219PAYER_KH_ID.22PAYER_KH_ID.220PAYER_KH_ID.221PAYER_KH_ID.222PAYER_KH_ID.224PAYER_KH_ID.225PAYER_KH_ID.226PAYER_KH_ID.228PAYER_KH_ID.229PAYER_KH_ID.23PAYER_KH_ID.231PAYER_KH_ID.233PAYER_KH_ID.234PAYER_KH_ID.235PAYER_KH_ID.236PAYER_KH_ID.238PAYER_KH_ID.239PAYER_KH_ID.24PAYER_KH_ID.240PAYER_KH_ID.241PAYER_KH_ID.242PAYER_KH_ID.243PAYER_KH_ID.244PAYER_KH_ID.245PAYER_KH_ID.246PAYER_KH_ID.247PAYER_KH_ID.248PAYER_KH_ID.249PAYER_KH_ID.25PAYER_KH_ID.250PAYER_KH_ID.251PAYER_KH_ID.252PAYER_KH_ID.253PAYER_KH_ID.255PAYER_KH_ID.257PAYER_KH_ID.259PAYER_KH_ID.26PAYER_KH_ID.260PAYER_KH_ID.261PAYER_KH_ID.262PAYER_KH_ID.264PAYER_KH_ID.265PAYER_KH_ID.266PAYER_KH_ID.267PAYER_KH_ID.268PAYER_KH_ID.269PAYER_KH_ID.27PAYER_KH_ID.271PAYER_KH_ID.272PAYER_KH_ID.273PAYER_KH_ID.274PAYER_KH_ID.275PAYER_KH_ID.276PAYER_KH_ID.277PAYER_KH_ID.278PAYER_KH_ID.279PAYER_KH_ID.28PAYER_KH_ID.281PAYER_KH_ID.284PAYER_KH_ID.285PAYER_KH_ID.287PAYER_KH_ID.288PAYER_KH_ID.289PAYER_KH_ID.29PAYER_KH_ID.290PAYER_KH_ID.291PAYER_KH_ID.292PAYER_KH_ID.293PAYER_KH_ID.294PAYER_KH_ID.295PAYER_KH_ID.296PAYER_KH_ID.297PAYER_KH_ID.298PAYER_KH_ID.299PAYER_KH_ID.300PAYER_KH_ID.301PAYER_KH_ID.302PAYER_KH_ID.304PAYER_KH_ID.305PAYER_KH_ID.306PAYER_KH_ID.307PAYER_KH_ID.308PAYER_KH_ID.309PAYER_KH_ID.31PAYER_KH_ID.310PAYER_KH_ID.311PAYER_KH_ID.312PAYER_KH_ID.313PAYER_KH_ID.314PAYER_KH_ID.315PAYER_KH_ID.316PAYER_KH_ID.317PAYER_KH_ID.318PAYER_KH_ID.32PAYER_KH_ID.320PAYER_KH_ID.321PAYER_KH_ID.322PAYER_KH_ID.323PAYER_KH_ID.324PAYER_KH_ID.325PAYER_KH_ID.326PAYER_KH_ID.327PAYER_KH_ID.328PAYER_KH_ID.33PAYER_KH_ID.331PAYER_KH_ID.332PAYER_KH_ID.333PAYER_KH_ID.335PAYER_KH_ID.336PAYER_KH_ID.338PAYER_KH_ID.339PAYER_KH_ID.34PAYER_KH_ID.340PAYER_KH_ID.341PAYER_KH_ID.342PAYER_KH_ID.343PAYER_KH_ID.345PAYER_KH_ID.346PAYER_KH_ID.347PAYER_KH_ID.348PAYER_KH_ID.349PAYER_KH_ID.35PAYER_KH_ID.351PAYER_KH_ID.352PAYER_KH_ID.353PAYER_KH_ID.354PAYER_KH_ID.356PAYER_KH_ID.357PAYER_KH_ID.358PAYER_KH_ID.359PAYER_KH_ID.37PAYER_KH_ID.38PAYER_KH_ID.4PAYER_KH_ID.40PAYER_KH_ID.42PAYER_KH_ID.43PAYER_KH_ID.44PAYER_KH_ID.45PAYER_KH_ID.46PAYER_KH_ID.47PAYER_KH_ID.48PAYER_KH_ID.49PAYER_KH_ID.5PAYER_KH_ID.50PAYER_KH_ID.51PAYER_KH_ID.52PAYER_KH_ID.53PAYER_KH_ID.54PAYER_KH_ID.55PAYER_KH_ID.56PAYER_KH_ID.57PAYER_KH_ID.58PAYER_KH_ID.59PAYER_KH_ID.6PAYER_KH_ID.60PAYER_KH_ID.61PAYER_KH_ID.62PAYER_KH_ID.63PAYER_KH_ID.64PAYER_KH_ID.65PAYER_KH_ID.66PAYER_KH_ID.67PAYER_KH_ID.68PAYER_KH_ID.69PAYER_KH_ID.7PAYER_KH_ID.70PAYER_KH_ID.71PAYER_KH_ID.72PAYER_KH_ID.73PAYER_KH_ID.75PAYER_KH_ID.76PAYER_KH_ID.77PAYER_KH_ID.78PAYER_KH_ID.79PAYER_KH_ID.8PAYER_KH_ID.80PAYER_KH_ID.81PAYER_KH_ID.82PAYER_KH_ID.83PAYER_KH_ID.84PAYER_KH_ID.85PAYER_KH_ID.87PAYER_KH_ID.88PAYER_KH_ID.9PAYER_KH_ID.90PAYER_KH_ID.91PAYER_KH_ID.92PAYER_KH_ID.93PAYER_KH_ID.94PAYER_KH_ID.95PAYER_KH_ID.96PAYER_KH_ID.97PAYER_KH_ID.missing(NA)MODIFIER_1.MODIFIER_1."1P"MODIFIER_1."22"MODIFIER_1."23"MODIFIER_1."24"MODIFIER_1."25"MODIFIER_1."26"MODIFIER_1."27"MODIFIER_1."32"MODIFIER_1."33"MODIFIER_1."35"MODIFIER_1."50"MODIFIER_1."51"MODIFIER_1."52"MODIFIER_1."53"MODIFIER_1."55"MODIFIER_1."56"MODIFIER_1."57"MODIFIER_1."58"MODIFIER_1."59"MODIFIER_1."76"MODIFIER_1."79"MODIFIER_1."95"MODIFIER_1."99"MODIFIER_1."AF"MODIFIER_1."AG"MODIFIER_1."AL"MODIFIER_1."AM"MODIFIER_1."AP"MODIFIER_1."AQ"MODIFIER_1."AT"MODIFIER_1."BU"MODIFIER_1."CC"MODIFIER_1."CG"MODIFIER_1."CR"MODIFIER_1."CS"MODIFIER_1."EP"MODIFIER_1."ET"MODIFIER_1."FA"MODIFIER_1."FP"MODIFIER_1."GA"MODIFIER_1."GB"MODIFIER_1."GC"MODIFIER_1."GE"MODIFIER_1."GF"MODIFIER_1."GN"MODIFIER_1."GP"MODIFIER_1."GQ"MODIFIER_1."GR"MODIFIER_1."GT"MODIFIER_1."GV"MODIFIER_1."GW"MODIFIER_1."GY"MODIFIER_1."GZ"MODIFIER_1."H9"MODIFIER_1."HA"MODIFIER_1."HB"MODIFIER_1."HD"MODIFIER_1."HE"MODIFIER_1."HF"MODIFIER_1."HG"MODIFIER_1."HI"MODIFIER_1."HL"MODIFIER_1."HN"MODIFIER_1."HO"MODIFIER_1."HP"MODIFIER_1."HR"MODIFIER_1."HW"MODIFIER_1."KX"MODIFIER_1."LT"MODIFIER_1."NP"MODIFIER_1."P2"MODIFIER_1."PA"MODIFIER_1."PD"MODIFIER_1."PN"MODIFIER_1."PO"MODIFIER_1."Q1"MODIFIER_1."Q2"MODIFIER_1."Q5"MODIFIER_1."Q6"MODIFIER_1."Q8"MODIFIER_1."QW"MODIFIER_1."RT"MODIFIER_1."SA"MODIFIER_1."SB"MODIFIER_1."SC"MODIFIER_1."T6"MODIFIER_1."TA"MODIFIER_1."TC"MODIFIER_1."TD"MODIFIER_1."TG"MODIFIER_1."TH"MODIFIER_1."TJ"MODIFIER_1."TS"MODIFIER_1."U1"MODIFIER_1."U2"MODIFIER_1."U3"MODIFIER_1."U4"MODIFIER_1."U5"MODIFIER_1."U6"MODIFIER_1."U7"MODIFIER_1."U8"MODIFIER_1."U9"MODIFIER_1."UA"MODIFIER_1."UB"MODIFIER_1."UC"MODIFIER_1."UD"MODIFIER_1."UF"MODIFIER_1."UG"MODIFIER_1."WI"MODIFIER_1."X1"MODIFIER_1."X2"MODIFIER_1."X4"MODIFIER_1."XE"MODIFIER_1.missing(NA)MODIFIER_2.MODIFIER_2."22"MODIFIER_2."24"MODIFIER_2."25"MODIFIER_2."27"MODIFIER_2."33"MODIFIER_2."51"MODIFIER_2."52"MODIFIER_2."57"MODIFIER_2."59"MODIFIER_2."76"MODIFIER_2."79"MODIFIER_2."95"MODIFIER_2."AF"MODIFIER_2."AG"MODIFIER_2."AM"MODIFIER_2."AQ"MODIFIER_2."AT"MODIFIER_2."CC"MODIFIER_2."CG"MODIFIER_2."CR"MODIFIER_2."EP"MODIFIER_2."FP"MODIFIER_2."GA"MODIFIER_2."GC"MODIFIER_2."GE"MODIFIER_2."GF"MODIFIER_2."GR"MODIFIER_2."GT"MODIFIER_2."GV"MODIFIER_2."GW"MODIFIER_2."GY"MODIFIER_2."H9"MODIFIER_2."HA"MODIFIER_2."HB"MODIFIER_2."HD"MODIFIER_2."HE"MODIFIER_2."HF"MODIFIER_2."HN"MODIFIER_2."HP"MODIFIER_2."HW"MODIFIER_2."KX"MODIFIER_2."LT"MODIFIER_2."NP"MODIFIER_2."PA"MODIFIER_2."PD"MODIFIER_2."PO"MODIFIER_2."Q1"MODIFIER_2."Q5"MODIFIER_2."Q6"MODIFIER_2."Q8"MODIFIER_2."Q9"MODIFIER_2."QW"MODIFIER_2."RT"MODIFIER_2."SA"MODIFIER_2."SB"MODIFIER_2."SE"MODIFIER_2."TF"MODIFIER_2."TH"MODIFIER_2."TJ"MODIFIER_2."TU"MODIFIER_2."U1"MODIFIER_2."U2"MODIFIER_2."U3"MODIFIER_2."U4"MODIFIER_2."U6"MODIFIER_2."U7"MODIFIER_2."U9"MODIFIER_2."UA"MODIFIER_2."UB"MODIFIER_2."UC"MODIFIER_2."UD"MODIFIER_2."WI"MODIFIER_2."X1"MODIFIER_2."X2"MODIFIER_2.missing(NA)PATIENT_STATE.PATIENT_STATE.AKPATIENT_STATE.ALPATIENT_STATE.ARPATIENT_STATE.AZPATIENT_STATE.CAPATIENT_STATE.COPATIENT_STATE.CTPATIENT_STATE.DCPATIENT_STATE.DEPATIENT_STATE.FLPATIENT_STATE.GAPATIENT_STATE.HIPATIENT_STATE.IAPATIENT_STATE.IDPATIENT_STATE.ILPATIENT_STATE.INPATIENT_STATE.KSPATIENT_STATE.KYPATIENT_STATE.LAPATIENT_STATE.MAPATIENT_STATE.MDPATIENT_STATE.MEPATIENT_STATE.MIPATIENT_STATE.MNPATIENT_STATE.MOPATIENT_STATE.MSPATIENT_STATE.MTPATIENT_STATE.NCPATIENT_STATE.NDPATIENT_STATE.NEPATIENT_STATE.NHPATIENT_STATE.NJPATIENT_STATE.NMPATIENT_STATE.NVPATIENT_STATE.NYPATIENT_STATE.OHPATIENT_STATE.OKPATIENT_STATE.ORPATIENT_STATE.PAPATIENT_STATE.PRPATIENT_STATE.RIPATIENT_STATE.SCPATIENT_STATE.SDPATIENT_STATE.TNPATIENT_STATE.TXPATIENT_STATE.UTPATIENT_STATE.VAPATIENT_STATE.VTPATIENT_STATE.WAPATIENT_STATE.WIPATIENT_STATE.WVPATIENT_STATE.WYPATIENT_STATE.missing(NA)PLACE_OF_SERVICE.PLACE_OF_SERVICE."01"PLACE_OF_SERVICE."02"PLACE_OF_SERVICE."03"PLACE_OF_SERVICE."07"PLACE_OF_SERVICE."11"PLACE_OF_SERVICE."12"PLACE_OF_SERVICE."14"PLACE_OF_SERVICE."15"PLACE_OF_SERVICE."17"PLACE_OF_SERVICE."19"PLACE_OF_SERVICE."20"PLACE_OF_SERVICE."21"PLACE_OF_SERVICE."22"PLACE_OF_SERVICE."23"PLACE_OF_SERVICE."24"PLACE_OF_SERVICE."26"PLACE_OF_SERVICE."32"PLACE_OF_SERVICE."49"PLACE_OF_SERVICE."50"PLACE_OF_SERVICE."52"PLACE_OF_SERVICE."53"PLACE_OF_SERVICE."57"PLACE_OF_SERVICE."65"PLACE_OF_SERVICE."71"PLACE_OF_SERVICE."72"PLACE_OF_SERVICE."81"PLACE_OF_SERVICE."99"PLACE_OF_SERVICE.missing(NA)PAYER_CHANNEL.PAYER_CHANNEL.CommercialPAYER_CHANNEL.Managed MedicaidPAYER_CHANNEL.MedicaidPAYER_CHANNEL.Medicare!PAYER_CHANNEL.Medicare AdvantagePAYER_CHANNEL.TRICAREPAYER_CHANNEL.Veterans AffairsPAYER_CHANNEL.Workers CompPAYER_CHANNEL.missing(NA)SOC.SOC.Ambulance VisitSOC.Emergency Room VisitSOC.Home VisitSOC.Inpatient VisitSOC.Laboratory Visit#SOC.Non-hospital institution VisitSOC.Outpatient VisitSOC.Pharmacy VisitSOC.missing(NA)CLAIM_TYPE_CODE.ICLAIM_TYPE_CODE.PCLAIM_TYPE_CODE.missing(NA)UNITSˇb                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                £5°modelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_automl_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@-6864942942959942592        ]5-fold cross-validation on training data (Metrics computed for combined holdout predictions)5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷s5Gautoml_training_Key_Frame__upload_946f5db36428ea65a0c8f37aabe9444f.hex@DåÒ√“∫†fx≤x   –vﬁù‘U¡?Î	      GÙ˚ÄﬁÂ€?–vﬁù‘U¡?ºêH˛afÃ?      ¯ˇ£5êmodelmetrics_XGBoost_3_AutoML_20210408_171120@8287422030696325632_on_Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex@8995505608354399445         5!XGBoost_3_AutoML_20210408_171120 ¢f£m÷s57Key_Frame__upload_b1c2abcf98f3f00ac53e499ea7f94ac9.hex’Ñˇ»∞t÷|Vx≤x   ,M®R¡?0W      F8j/Ò‡€?,M®R¡?=sSJj6Ã?      ¯ˇ 
