@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project specific folders
+/home/jovyan/dev/costofcare/analysis/h2o_models/old_models
