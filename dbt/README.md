@@ -10,7 +10,7 @@ The pipeline flow can be visualized with the dbt UI (see [dbt documentation](htt
 
 Briefly, the flow starts with pulling allowed amounts from the allowed amounts tables (allowed_amounts_table_2020.sql). It then combined those results with claim date, procedure, setting of care from various tables (allowed_amount_table_2020_enhanced). 
 
-There are 'unit test' models that perform basic tests on the above models(models/unit_tests). These test are then combined and queries are run to get the list of failed unit test and fatal failed unit tests. 
+There is a side branch to allow for comparison of medicare fees to allowed amounts. It starts at the "extract/med_proc_fee_pivot" model, then over several steps merges allowed amounts and medicare data and provides a summary. The final tables include "ranges" (<.75x, <3x) around the medicare fees which bound acceptable allowed amounts. Percent of allowed amounts falling outside these ranges are calculated, but no filter is applied. 
 
 #### Note on 'limit throttling'/'limit_level'
 How much of allowed_amount data is pulled by the pipeline is set by the 'limit_level' variable in the dbt_project.yml file. The 'allowed_amounts_table_2020.sql' model reads this variable and sets a limit on the number of records pulled equal to 10^(limit_level * 2). This means that a limit level of 1 will pull 100 records, 2 will pull 10000 records etc. A limit_level of 0 means no limit is placed on the number of records. 
