@@ -5,6 +5,8 @@
   	)
 }}
 
+--summary of procedure allowed amounts from analysis sample
+
 with procedure_amt_summ as (select
 procedure 
 ,count(distinct encounter_key) as proc_ekey_count
