@@ -19,3 +19,11 @@ sources:
     tables:
       - name: procedure
         identifier: v_procedure
+  - name: med_fee
+    database: med_physician_fee_schedule
+    schema: public
+    tables:
+      - name: mpfs
+        identifier: mpfs
+      - name: locality
+        identifier: locality
