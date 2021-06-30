@@ -5,7 +5,7 @@
   	)
 }}
 
---summary of medicate fees
+--summary of medicare fees
 
 select procedure
 ,soc_type

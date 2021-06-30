@@ -11,7 +11,7 @@ config-version: 2
 profile: 'cost_of_care'
 
 vars:
-  limit_level: 2.5
+  limit_level: 1.0
   analysis_start_date: TO_DATE('2020-01-01','yyyy-mm-dd')
   analysis_end_date: TO_DATE('2020-02-29','yyyy-mm-dd')
 

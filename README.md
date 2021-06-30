@@ -25,3 +25,4 @@ Currently, the repo has two parts:
 -fix sampling?
 -rewrite readme	
 -new QA (counts, etc)
+-unit tests
