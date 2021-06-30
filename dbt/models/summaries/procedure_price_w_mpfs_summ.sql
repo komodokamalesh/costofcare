@@ -10,7 +10,7 @@
 with procedure_price_table as (select
 procedure
 ,left(procedure_description,100) as procedure_description
-,iff(visit_setting_of_care='Outpatient Visit', 'NON_FACILITY', 'FACILITY') as facility_cat
+,iff(visit_setting_of_care='Outpatient_Visit', 'NON_FACILITY', 'FACILITY') as facility_cat
 ,patient_state as state
 ,allowed_amount
 from {{ref('random_01pct_enhanced_encounters_w_allowed_amounts')}}

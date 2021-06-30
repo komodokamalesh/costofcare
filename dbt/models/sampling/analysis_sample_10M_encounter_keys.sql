@@ -5,7 +5,7 @@
   	)
 }}
 
---pulls random 1M encounter keys
+--pulls random 10M encounter keys
 
 select encounter_key
 from {{ref('analysis_sample_encounter_keys_w_random_vals')}} as ri

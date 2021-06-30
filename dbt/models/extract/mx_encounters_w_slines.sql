@@ -19,6 +19,7 @@ e.claim_date
 ,e.hcp_1_npi
 ,e.hco_1_npi
 ,e.total_claim_charge_amount
+,e.patient_amount_paid
 ,e.payer_kh_id
 ,e.payer_kh_id_impute_flag
 ,e.bill_type_code
