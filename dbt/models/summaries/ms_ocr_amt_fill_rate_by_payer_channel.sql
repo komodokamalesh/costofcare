@@ -14,7 +14,7 @@ with count_table as (select encounter_key
 , count(line_charge) as n_lc
 , count(patient_amount_paid) as n_pap
 , count(total_claim_charge_amount)  as n_tcca
-from {{ref('enhanced_encounters_w_allowed_amounts')}}
+from {{ref('ms_ocr_encounters_w_closed_flags_and_slines_and_soc_and_allowed_amounts')}}
 group by encounter_key, payer_channel, upk_key2)
 
 
