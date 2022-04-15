@@ -8,7 +8,7 @@
 
 The pipeline flow can be visualized with the dbt UI (see [dbt documentation](http://csprojects.khinternal.net/cost_of_care/dbt/#!/overview) for more details.)
 
-Briefly, the flow starts with pulling encounters from a given range (see schema.yml) . It then combined those results with claim date, procedure, setting of care and allowed amounts from various tables (allowed_amount_table_2020_enhanced). These models are generally contained in models/extract
+Briefly, the flow starts with pulling encounters from a given range (see schema.yml) . It then combines those results with claim date, procedure, setting of care and allowed amounts from various tables (allowed_amount_table_2020_enhanced). These models are generally contained in models/extract
 
 The flow also introduces some sampling, generating random samples of encounter keys of various lengths. These models are generally found in models/sampling. The sampling of keys are then combined with the enhanced encounters pulls to generate sample of enhanced encounters.
 

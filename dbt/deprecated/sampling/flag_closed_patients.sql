@@ -12,8 +12,11 @@ c.claim_date,
 c.encounter_key, 
 c.upk_key2,
 (arrays_overlap(array_construct(month(c.claim_date)), e.months_closed_mx)) as closed_flag
-from {{ref('ms_ocr_encounters')}} as c
-join {{source('encounters_new', 'eligibility')}} as e
+from {{ref('enhanced_encounters_w_allowed_amounts')}} as c
+join {{source('encounters', 'eligibility')}} as e
+
+--from {{ref('ms_ocr_encounters')}} as c
+--join {{source('encounters_new', 'eligibility')}} as e
 on e.upk_key2=c.upk_key2
 and year(c.claim_date)=e.year
 where e.months_closed_mx is not null)

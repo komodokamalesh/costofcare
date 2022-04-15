@@ -3,6 +3,20 @@
 sources:
   - name: encounters
     database: map_encounters
+    schema: mx_encounters_20220306
+    tables:
+      - name: aa
+        identifier: allowedamounts_ga
+      - name: mx
+        identifier: encountersmx_ls_ga
+      - name: s_lines
+        identifier: encountersmx_ls_ga_service_lines
+      - name: visits
+        identifier: visits_ls_ga
+      - name: eligibility
+        identifier: eligibilitystatus_ls_ga
+  - name: encounters_v1
+    database: map_encounters
     schema: mx_encounters_20210104
     tables:
       - name: aa
@@ -15,7 +29,7 @@ sources:
         identifier: visits_ls_ga
       - name: eligibility
         identifier: eligibilitystatus_ls_ga
-  - name: encounters_new
+  - name: encounters_v2
     database: map_encounters
     schema: mx_encounters_20210802
     tables:

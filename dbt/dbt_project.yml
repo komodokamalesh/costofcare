@@ -12,8 +12,8 @@ profile: 'cost_of_care'
 
 vars:
   limit_level: 1.0
-  analysis_start_date: TO_DATE('2020-01-01','yyyy-mm-dd')
-  analysis_end_date: TO_DATE('2020-02-29','yyyy-mm-dd')
+  analysis_start_date: TO_DATE('2021-10-01','yyyy-mm-dd')
+  analysis_end_date: TO_DATE('2022-02-28','yyyy-mm-dd')
 
 # These configurations specify where dbt should look for different types of files.
 # The `source-paths` config, for example, states that models in this project can be

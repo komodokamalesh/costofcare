@@ -19,7 +19,7 @@ a.encounter_key
 from (select encounter_key
   ,allowed_amount
   ,procedure from {{source('encounters', 'aa')}}
-  where service_from::date between '2020-01-01' and '2020-12-31') as a
+  where service_from::date  between {{var('analysis_start_date')}} and {{var('analysis_end_date')}}) as a
 join {{source('encounters', 'mx')}} as e
 on e.encounter_key=a.encounter_key
 left join {{source('vocabulary', 'procedure')}} as v
